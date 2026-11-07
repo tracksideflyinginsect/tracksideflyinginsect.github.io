@@ -1,0 +1,2686 @@
+Content-Type: multipart/related; start=<op.mhtml.1266228411406.8e84ac7c106a2354@10.153.166.163>; boundary=----------VLdFXGOsebQq8QlVQERKd8
+Content-Location: http://25yearsofprogramming.com/blog/20071223.htm
+Subject: =?utf-8?Q?How=20to=20remove=20"This=20site=20may=20harm=20your=20computer"=20from=20Google=20search=20results?=
+MIME-Version: 1.0
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=20071223.htm
+Content-Type: text/html; charset=windows-1252; name=20071223.htm
+Content-ID: <op.mhtml.1266228411406.8e84ac7c106a2354@10.153.166.163>
+Content-Location: http://25yearsofprogramming.com/blog/20071223.htm
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="meta" href="http://25yearsofprogramming.com/labels.rdf" type="application/rdf+xml" title="ICRA labels">
+<meta http-equiv="pics-Label" content='(pics-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true for "http://25yearsofprogramming.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0) gen true for "http://www.25yearsofprogramming.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))'>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>How to remove "This site may harm your computer" from Google search results</title>
+<meta name="keywords" content="This site may harm your computer, reported attack site, Google, StopBadware, warning, reasons, why, flag, badware, remove, malicious code, step by step, what to do, how to, fix, procedure, clean up, invisible iframe, obfuscated JavaScript, website">
+<meta name="description" content="Step by step what to do if your website is flagged as harmful in Google search results. The reasons you can be flagged. How to investigate and get the warning removed.">
+<link rel="stylesheet" type="text/css" href="../css/myjournal1/myjo1011.css">
+</head>
+<body>
+<table cellpadding="0" cellspacing="10" width="100%">
+	<tr>
+		<td valign="top" align="left" style="font-family:Verdana,Arial,Helvetica,sans-serif;">
+
+<font size="5"><b>25&nbsp;Years&nbsp;of&nbsp;Programming</b></font>
+<br>
+<font size="2"><b>An open source source for C, C++, OWL, BASIC, MDB, XLS, DOT, and more...</b></font>
+
+		</td>
+		<td valign="top" align="left" style="font-family:Verdana,Arial,Helvetica,sans-serif;">
+
+
+	<a href="/index.htm" title="Home page">Home</a>&nbsp;&nbsp;
+	<a href="/projects.htm" title="Index to projects">Projects</a>&nbsp;&nbsp;
+	<a href="/toc.htm" title="Table of Contents: a dense but complete list of all pages">Sitemap</a>&nbsp;&nbsp;
+	<a href="/search.htm" title="Search this site or the web">Search</a>&nbsp;&nbsp;
+	<a href="/blog/index.htm" title="Index to articles">Blog</a>&nbsp;&nbsp;
+	<a href="/forum/index.php" title="Forum: support, blog comments, discussion, help with how-to articles">Forum+Chat</a>&nbsp;&nbsp;
+	<a href="/aboutus.htm" title="The author, computers, copyright and licensing">About&nbsp;Us</a>&nbsp;&nbsp;
+	<a href="/privacypolicy.htm" title="Privacy policy">Privacy</a>&nbsp;&nbsp;
+	<a href="/termsofuse.htm" title="Terms of Use for the site">Terms&nbsp;of&nbsp;Use</a>&nbsp;&nbsp;
+	<a href="/feedback.htm" title="Contact us">Feedback</a>&nbsp;&nbsp;
+	<a href="/faq.htm" title="Frequently Asked Questions">FAQ</a>&nbsp;&nbsp;
+	<a href="/images/index.htm" title="Image galleries index">Images</a>&nbsp;&nbsp;
+	<a href="/services.htm" title="Services I offer and payment terms">Services</a>&nbsp;&nbsp;
+	<a href="/donate.htm" title="Page with link to PayPal for payments processing">Payments</a>&nbsp;&nbsp;
+	<a href="/fun/humor.htm" title="Jokes, quips, humorous commentary">Humor</a>
+
+		</td>
+		<td valign="top" align="right" style="font-family:Verdana,Arial,Helvetica,sans-serif;">
+
+<script type="text/javascript" src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/translatemypage.xml&amp;up_source_language=en&amp;w=160&amp;h=60&amp;title=&amp;border=&amp;output=js"></script>
+
+<noscript><font size="1">Language&nbsp;translation<br>by&nbsp;Google&nbsp;is&nbsp;available<br>when&nbsp;JavaScript&nbsp;enabled.<br>
+<a title="Copy the address of this page from your address bar, then translate it at Google." href="http://translate.google.com/">Google&nbsp;Translate</a><br>is&nbsp;an&nbsp;alternative.
+</font></noscript>
+		</td>
+	</tr>
+</table>
+
+<p align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-8623709294812123";
+/* 728x15 red links dddddd border, created 7/3/08 */
+google_ad_slot = "6690682968";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+<table cellpadding="0" cellspacing="10" width="100%">
+	<tr>
+		<td valign="top" align="left">
+
+<h1>How to remove the &quot;This site may harm your computer&quot; warning from your website's listings in Google search results, step 
+by step </h1>
+<ul>
+	<li>If you are looking for information about a similar <i>but not identical</i> warning from <b><i>Internet Explorer</i></b>, 
+	see <a href="#ie7warning">Notes</a> at the bottom of this page.</li>
+</ul>
+
+<h2>What is the warning?</h2>
+<p>Google<img border="0" src="http://25yearsofprogramming.com/images/clear.gif" width="1" height="1" alt="" title="">
+puts this warning flag in its search results for pages where its automated web crawler was attacked by viruses or 
+spyware when it visited the page. The purpose of the warning is to help protect web surfers who are using Google search results,
+by steering them away from malicious pages. Yahoo also provides similar warnings on its result pages. </p>
+
+<p>The warning is not a punishment or penalty, and it does not mean that Google, Yahoo, or StopBadware think you designed your 
+site to be malicious. They all know that the overwhelming majority of webmasters do not create malicious pages on purpose and that 
+you 
+probably didn't, either. But they also don't want to send their customers to dangerous pages, and they do require you to do the 
+necessary cleanup before they start referring visitors again. </p>
+<p>You are probably wondering what happened to your site that got it flagged. </p>
+<h2>Why is your site flagged?</h2>
+<p>Here are reasons why your website can be flagged with the &quot;This site may harm your 
+computer&quot; warning in Google search results: </p>
+
+<ol>
+	<li>Your site was hacked<a href="http://25yearsofprogramming.com/blog/20071223.htm" style="color:#000000; text-decoration:none;">.</a> 
+	This is the most common reason for the badware flag. If someone can trick your server into allowing them to modify files in your 
+	site, they can insert malicious code into your web pages or database tables, or they can alter 
+	your .htaccess or your HTML or JavaScript code so your 
+	site automatically redirects visitors to a malicious site.&nbsp; <br>
+&nbsp;</li>
+	<li>A site <i>other</i> than yours got hacked, but it is affecting the content on <i>your</i> pages. Let's say your pages have normally harmless iframes or JavaScript 
+	that are pulled into a visitor's browser 
+	from the other website by using the property (in the HTML code) &quot;src=http://othersite&quot;, or they use PHP 
+	code that resides on another website but is included into your pages before being served, with a 
+	PHP include(). If the other website gets hacked, your pages can turn dangerous, too, if the content that the other site was 
+	supposed to be sending out (advertisements, hit counters, top 10 lists ...) gets replaced by viruses, spyware, or other bad things. 
+	Whenever you use content from another website on your pages, you are dependent on that other site staying clean. <br>
+&nbsp;</li>
+	<li>Your pages trigger the loading of Flash .swf files that are scripted to do malicious 
+	things or that are out of date and exploitable. Flash advertising is a common problem area. <br>
+&nbsp;</li>
+	<li>(Your site contains an outlink to another site that has badware on it.) This was once a major reason for being flagged. 
+	That might not be true anymore, but it is still worthwhile to check your outlinks to make sure you are not linking to 
+	malicious sites, or to a site that got hacked and has turned malicious. </li>
+</ol>
+
+<p>
+<a title="StopBadware criteria for a website contributing to the badware problem." href="http://www.stopbadware.org/home/guidelines#website">
+StopBadware</a> and
+<a title="Google answer page about sites distributing malicious software." href="http://www.google.com/support/webmasters/bin/answer.py?answer=66354">
+Google</a> describe the criteria they use to determine whether a website is contributing 
+to the badware problem. </p>
+<p>
+The Firefox 3+ and Chrome browsers use data from the Google Safe Browsing Service to warn users about suspected malicious sites. If your site 
+is flagged in Google search results, Firefox 3 users are getting a warning that says, &quot;Reported Attack Site!&quot;, and they are 
+blocked from going there. </p>
+
+<hr style="height:16px">
+
+<h2>Why antivirus scanning might not find the bad code </h2>
+<p>The first idea that occurs to many webmasters is to do an AV scan on the 
+site, but in many cases that will not find the problem. The next sections explain why. </p>
+<h3>A) Scanning your website files on the server </h3>
+<p>Scanning your server with an antivirus program will only work if 
+the site is actually hosting the virus, which it often isn't. </p>
+<p>More likely, the virus itself is hosted on another computer. Your pages 
+have been injected with iframe or JavaScript code that refers indirectly (with src=) to the 
+virus on the other website. Thus, the AV program on your server sees only iframes and 
+JavaScript which don't trigger virus alerts because they aren't viruses. </p>
+<p>The remote viruses aren't pulled in until the page is loaded into 
+a visitor's browser. Then their browser <i>fetches</i> the code referred to by the src= 
+property, and then they get a virus alert.</p>
+<p>If you scan your site with an antivirus program and it finds no 
+viruses, that does not mean the site is clean. </p>
+<h3>B) Downloading your site files to your PC and scanning them there </h3>
+<p>Using a tool like FTP, Wget, or cURL to download the source code of 
+your pages to your local PC and AV-scanning them there is also unlikely to 
+find the virus, for the same reason given above: the actual virus is probably 
+not on the pages. </p>
+<p>Wget in &quot;recursive download&quot; mode <i>can</i> retrieve all linked files, including ones 
+from remote sites, but if some of them <i>are</i> viruses, you will be taking the unnecessary risk of downloading them directly to 
+your PC. </p>
+<h3>C) Risky - browse your pages with an antivirus program running on your PC</h3>
+<p>If you are determined to use the facilities of an AV program to scan your site, 
+you can browse the site as if you were an ordinary visitor. This is risky 
+because an increasing number of viruses are &quot;polymorphic&quot;. Their code changes so 
+frequently (every day or every time they are served) that antivirus 
+programs can't keep up, and they do a poor job of detecting them: </p>
+
+<ol>
+	<li>Make sure your PC is fully patched with all the latest security updates. On a Windows PC, while logged into an account 
+	with Administrator privileges (it doesn't have to be your hidden Administrator account), go to
+	<a title="Windows Update at Microsoft." href="http://windowsupdate.microsoft.com/">Windows Update</a>. (or IE7 &gt; Tools &gt; 
+	Windows Update). </li>
+	<li>Make sure your antivirus software is up to date with the latest definitions. Do a manual update even if you normally get 
+	automatic ones. </li>
+	<li>Set all your browser security settings to their 
+	<a title="How to set highest security in Internet Explorer 7." href="2008/20080524.htm">highest levels</a>, 
+	including turning <b>JavaScript</b> (or &quot;active scripting&quot;) <b>OFF</b>. </li>
+	<li>Go to each of your site's pages with your browser. </li>
+	<li>Remember that if you are attacked by malware, the precautions you took in steps 1-3 are the only things protecting you. 
+	Otherwise, you are as vulnerable as any other visitor. </li>
+	<li>If your AV pops up an alert, that's a good sign you've found the problem. </li>
+	<li>If your AV 
+	doesn't pop up an alert, that doesn't mean the site is clean. As mentioned, 
+	AV programs might not detect these viruses. The viruses might be encrypted, and 
+	your AV might not detect them until they are decrypted, which requires 
+	JavaScript. But if you enable JavaScript, you might discover the virus by 
+	getting infected with it. </li>
+</ol>
+
+<p>In summary, antivirus scanning is not definitive. If it finds a problem, 
+that's useful. If it doesn't find a problem, it means nothing because the virus 
+might be on a different website, or might be encrypted and polymorphic, or your website's 
+problem might not be a virus at all. It might be a malicious redirect in the .htaccess file that selectively only occurs for users 
+coming from search engine results, or it might be a bad outlink on one or more of your pages. </p>
+
+<p>So the most thorough way to examine the site is to learn what to look for and then inspect your source files manually. </p>
+
+<hr style="height:16px">
+
+<h1><a name="howtosearchformaliciouscode"></a>How to search your pages for malicious code </h1>
+<h2>1) Discover which pages are flagged for malware and get clues about why they are flagged</h2>
+<ol>
+	<li>In any Google search box, enter: <b><font size="4">site:yoursite.com</font></b> <br>
+&nbsp;</li>
+	<li>Note which pages have the warning flag. Usually, it's all of them, but sometimes it's only one section, such as the forum or 
+	blog, which tells you where to focus most of your attention.<br>
+&nbsp;</li>
+	<li>Click the search results link for one of your flagged pages. Instead of going to your site, it will take you to a Google &quot;interstitial&quot; 
+	warning page. <br>
+&nbsp;</li>
+	<li>On that page, follow the link to the &quot;<b>Safe Browsing diagnostic page</b>&quot; and study it. Another way to get 
+	to the Safe Browsing diagnostic page directly (you can check any website this way) is by entering this URL into your browser address 
+	bar. Replace EXAMPLE.COM with the address of the website you want to check:<br>
+	<br>
+	http://www.google.com/safebrowsing/diagnostic?site=EXAMPLE.COM<br>
+	<br>
+	Detailed instructions for how to understand the Google Safe Browsing Diagnostic report have been moved to a
+	<a title="How to understand the Google Safe Browsing Diagnostic" href="2009/20091124.htm">separate page</a>.<br>
+&nbsp;</li>
+	<li>Go to Webmaster Tools at <a title="Go to Google Webmaster Central" href="http://www.google.com/webmasters/">Google Webmaster Central</a>. If you don't have an account there, create one. 
+	It's free. They 
+	show the badware status of your site, help information, and a partial list of the pages they consider suspicious. <br>&nbsp;</li>
+	<li>Look up your site in the 
+	<a title="Go to the StopBadware Clearinghouse database" href="http://www.stopbadware.org/home/reportsearch">StopBadware Clearinghouse</a> 
+	database.&nbsp; 
+<br>
+&nbsp;</li>
+	<li>If Symantec's <a title="Website safety ratings by Symantec" href="http://safeweb.norton.com/">Norton Safe Web</a> has 
+	found malware, their report shows the locations (filenames) of the threats more completely than the Google and StopBadware 
+	reports. 
+<br>
+&nbsp;</li>
+	<li>Scan pages of your website at <a title="Hidden iframe scanner, and security blog." href="http://www.unmaskparasites.com/">
+	UnmaskParasites</a> to find hidden iframes. <br>
+&nbsp;</li>
+	<li>Scan pages of your website at <a title="Hidden iframe scanner." href="http://wam.dasient.com/wam/">Dasient</a>. 
+<br>
+&nbsp;</li>
+	<li>Do a web search on each of the domain names and IP addresses mentioned in your Google Safe Browsing Diagnostic report as 
+	being the sources or intermediaries of the malware on your pages. Some of these website names and IP addresses are associated 
+	with specific types of attacks. For example, if the domains mentioned are <i>gumblar</i> or <i>martuz</i>, it is certain that 
+	a virus on the PC of one of your site administrators stole the FTP login information and used it to hack the site, so you must 
+	do virus scans. On the other hand, if the domain is <i>beladen</i>, you are facing a server-wide compromise, not just an 
+	ordinary attack on your one website, so you must notify your webhost. These domain names can give you good clues about what is 
+	wrong and save you a lot of time if your search is successful. 
+</li>
+</ol>
+
+<p>Now that you have preliminary information about which pages are affected and what seems to be wrong with them, you can start 
+searching for bad code. Some of it might have been identified in steps 9 and 10 above.</p>
+
+<h2>2) Remember to search your <b>source code</b> for badware </h2>
+<p>Whenever possible, view and search the <b>source code</b> of your pages, <i>on your server</i>. This allows you to see ALL the code, even if it is 
+only put on the pages sometimes.</p>
+<p>Explanation: </p>
+<p>Some exploits put malicious code on pages only under certain conditions such as if the visitor is using Internet Explorer or if 
+they came to your site from a Yahoo or Google search results page. Your particular viewing might not meet those 
+conditions (such as if you're using Firefox or you went directly to the site without going through a search engine). If you examine pages with your browser's View Source command, you can think the page is clean even though 
+at other times, or when other people view it, it's not.&nbsp; </p>
+<p>Examining the source code on your server lets you see all the code that's there. </p>
+<h2>3) Programs for searching pages for malicious code </h2>
+
+<h3>3a) <b>Search one page at a time (recommended)</b></h3>
+
+<ul>
+	<li>An FTP client program such as <a title="Go to the FireFTP website" href="http://fireftp.mozdev.org/">FireFTP</a>.
+	You can use <a title="How to use Windows Explorer as an FTP client" href="2009/20090622.htm">Windows Explorer</a> for FTP, if 
+	you really have to.</li>
+	<li>cPanel (or Plesk) &gt; File Manager </li>
+</ul>
+<p>Starting with the most important 
+flagged page (such as your home page), visually inspect the source code of each file for the types of malicious text described in 
+Section 4 below. </p>
+<p>Malicious code is often inserted into web page files by robots (programs) using very simple rules for where to put it. Common locations are: </p>
+<ul>
+	<li>At the very top of the file. </li>
+	<li>Just before or after the &lt;body&gt; or &lt;/body&gt; tags. </li>
+	<li>At the very bottom of the file, after the &lt;/html&gt; tag. </li>
+</ul>
+
+<p>If your pages normally validate at
+<a title="Go to the W3C Markup Validation Service." href="http://validator.w3.org/">
+W3C</a>, go there and check your badware-flagged pages. Any errors you get might point 
+directly to where the bad code is. </p>
+<h3>3b) <b>Multi-file searching</b></h3>
+<p>With multi-file searching, a program scans all files for the search 
+string you specify, and reports all the instances it finds. This is an efficient way to search if you already know how to 
+do it. Otherwise, this is probably not the best time to learn, and I'd recommend the one-page-at-a-time method, above. </p>
+<p><b>Dedicated server</b></p>
+<p>Do your search directly on the server with an operating system tool like
+<a title="Wikipedia overview of grep." href="http://en.wikipedia.org/wiki/Grep">
+grep</a>. </p>
+<p><b>Shared server</b></p>
+<p>If you're already familiar with cron and grep, you can create a cron job to 
+do the grep search as though you had shell (command line) access. </p>
+<p>Otherwise, download the pages (or your entire site) to your PC so you can 
+search them there. Download with:</p>
+<ul>
+	<li>FTP. If you normally publish <i>to</i> your site with FTP, be 
+	sure when you reverse-publish back to your PC that you don't overwrite your 
+	local site! Copy the files to a <i>different</i> location. </li>
+	<li>
+	<a title="Wikipedia overview of Wget." href="http://en.wikipedia.org/wiki/Wget">
+	Wget</a>. After a confusing search, I got my Windows XP version at
+	<a title="Souce for Windows executable of Wget." href="http://www.christopherlewis.com/WGet/WGetFiles.htm">http://www.christopherlewis.com/WGet/WGetFiles.htm</a>. </li>
+	<li>
+	<a title="Wikipedia overview of cURL." href="http://en.wikipedia.org/wiki/CURL">
+	cURL</a>. </li>
+</ul>
+<p>After downloading the pages to your PC, you can 
+do the searching with any program that supports searching multiple files. Some examples:</p>
+<ul>
+	<li>FrontPage</li>
+	<li>Expression Web</li>
+	<li>Dreamweaver</li>
+	<li>GREP or a similar utility </li>
+	<li>A programming IDE such as Microsoft Visual C++ or Borland C++ Builder </li>
+	<li>Windows Explorer (its search methods have peculiarities that make it a poor choice for these searches) </li>
+</ul>
+
+<h2>4) Search strings to find malicious code </h2>
+
+<p>These are useful search strings, whether you are searching one file at a time or all files at once: </p>
+
+<table border="1" cellpadding="4" style="border-collapse: collapse; " id="table1">
+	<tr>
+		<td>&lt;iframe </td>
+		<td>Can quickly discover malicious links, which are often in iframes.</td>
+	</tr>
+	<tr>
+		<td>src= </td>
+		<td>Finds occurrences of iframes and JavaScript because they both use this property. The equals sign might be encoded as = 
+		or %3D or %3d. Searching for just <b>src</b> would find all of them. </td>
+	</tr>
+	<tr>
+		<td>http:// </td>
+		<td>Finds references to remote websites. </td>
+	</tr>
+	<tr>
+		<td>script&nbsp;language= </td>
+		<td>Finds occurrences of scripts. </td>
+	</tr>
+	<tr>
+		<td>unescape</td>
+		<td>A JavaScript function often found in malicious code. </td>
+	</tr>
+	<tr>
+		<td>eval</td>
+		<td>Another JavaScript function often found in malicious code. </td>
+	</tr>
+</table>
+
+<p><span style="background-color: #FFFF00">Make sure all instances of </span><b>
+<span style="background-color: #FFFF00">src=</span></b><span style="background-color: #FFFF00"> and 
+</span><b><span style="background-color: #FFFF00">http://</span></b><span style="background-color: #FFFF00"> refer to files on your site or to 
+external sites you know and trust. </span> </p>
+<p>Some common trusted sites that are <i>not</i> a problem are:</p>
+<ul>
+	<li>pagead2.googlesyndication.com (if you use AdSense) </li>
+	<li>www.google-analytics.com (Google Analytics). However, make sure it is not goo<b>q</b>le-analytics with the second G 
+	really being a Q. That is a spoof/malware site, and not ok. Other look-alikes of the google-analytics name are common, so 
+	check the spelling carefully. </li>
+</ul>
+<h3>4a) <b>What do malicious or invisible iframes look like?</b> </h3>
+<p>iframe code looks like this. If you don't recognize remotesite.com, the code 
+is suspicious. This example combines two separate methods of making it an &quot;invisible iframe&quot;, either one of which would 
+work by itself: the width and height 
+settings, or the style: </p>
+<p><font face="Courier New">&lt;iframe src=&quot;<b><font color="#FF0000">http://remotesite.com</font></b>/path/file&quot; width=&quot;0&quot; height=&quot;0&quot; 
+frameborder=&quot;0&quot; style=&quot;display:none&quot;&gt;&lt;/iframe&gt; </font> </p>
+<p>Whenever you find an iframe like this, do a web search on remotesite.com to find security-related websites, blogs, or forum 
+posts that discuss it:</p>
+<p align="center">remotesite.com malware OR hacked</p>
+<p>Be careful to avoid clicking any result that <i>is</i> the malicious website, or is a website that was infected by it! Some 
+iframes are always associated with a particular type of exploit, so information about the one you found can save a lot of time 
+discovering how your website got hacked. For example, iframes referencing <i>gumblar.cn</i>, <i>martuz.cn</i>, and a growing list 
+of others are the result of FTP password theft from the webmaster's PC, so the security problem is on the PC, not the server.&nbsp; </p>
+
+<h3>4b) <b>What do malicious JavaScript references look like?</b> </h3>
+<p>JavaScript references to <i>external</i> sites look like this. If you don't 
+recognize remotesite.com, the code is suspicious. This code calls and runs a JS 
+script that is hosted on a website that isn't yours. After a visitor loads <i>your</i> page, their browser fetches this JavaScript from the other site and runs it: </p>
+<p><font face="Courier New">&lt;script language=&quot;JavaScript&quot; 
+src=&quot;<font color="#FF0000"><b>http://remotesite.com</b></font>/path/file.js&quot;&gt;&lt;/script&gt;
+</font> </p>
+
+<h3>4c) <b>What does malicious or obfuscated JavaScript code look like?</b> </h3>
+
+<p>Malicious JavaScript code directly on your pages (rather than being 
+called by reference as described above) is often 
+&quot;obfuscated&quot;, &quot;obscured&quot;, &quot;encoded&quot; to make it hard to tell what it does. It looks like an 
+undecipherable jumble, like this (this has been greatly shortened and mangled to 
+make it nonfunctional). Code like this is always suspicious and must be 
+investigated: </p>
+
+<p><font face="Courier New">&lt;script language=&quot;JavaScript&quot;&gt;function nbsp() {var t,o,l,i,j;var s=''; 
+s+='47116101120'; s+='09711409­9111'; s=s+'120340321­1910'; 
+s=s+'71210581101­11112'; s=s+'9062032'; t='';l=s.length;i=0; 
+while(i&lt;(l-1)) {for(j=0;j&lt;3;j++){t+=s.charAt(i);i++;} if((t-nescape(0xBF))&gt;unscape(0x00)) t-=-(uescape(0x08)+unescae(0x30)); doc.rite(String.froCharCode(t));t='';}}nbsp(); 
+&lt;/script&gt; </font> </p>
+<p>Sometimes VBScript is used instead, so the code starts with<font face="Courier New">:<br>
+&lt;script language=&quot;VBScript&quot;&gt;</font></p>
+<p>If in doubt about whether a block of code is malicious, take a snippet of 
+it and do a web search on it. </p>
+<h2>5) Which pages to search for malicious code</h2>
+<p>Search all the files that have any part in creating your web pages: .html, .htm, .php, .asp, .aspx, .inc (include files), .cfm, 
+and whatever other extensions you use. </p>
+<p>Inspect .js JavaScript and any other script files (including ones that you know originally came from a trusted source), 
+watching for obfuscated code as described above. Some exploits try to do as little damage to the site as possible other than 
+adding one little malicious JavaScript function into an otherwise normal .js file, to make it go undetected for as long as 
+possible and be difficult to find.&nbsp; </p>
+<p>If you find nothing in your text files, it might be necessary to search your database for malicious code, which is discussed in 
+Section 12) below. </p>
+<h2>6) Search your pages for links to flagged sites </h2>
+<p>If your site can still be flagged for 
+outlinking directly to another site that has badware on it (which, as mentioned earlier, I am not sure is still the case), only one-hop links count. If you link to a site that links to a site 
+that has badware, that does not cause a flag. </p>
+<p>Having a large number of outlinks makes you especially vulnerable. If you link to 1000 other sites, what are the chances that 
+they all manage to stay clean all the time? </p>
+<p>To investigate, make a list of all the sites you link to. For each one: </p>
+<ul>
+	<li>In any Google search box, enter <font size="4"> <b>site:thatsite.com</b></font>, or </li>
+	<li>Look it up in the StopBadware Clearinghouse database </li>
+</ul>
+
+<p>If any of the site's pages have the &quot;This site may harm your computer&quot; 
+warning, you may be flagged for linking to them. Or they may be flagged for 
+linking to you, if they do. There's no way to tell which it is. If you have a good relationship with the other site, tell them they've 
+been flagged. They might not know about it. </p>
+
+<h2>7) Forum posts and blog comments </h2>
+<p>Examine the user-generated 
+content on your site for malicious links that may have been posted by visitors or spambots. To be efficient, start with posts from 
+a few days before the site first got flagged. Or start at the end and work backwards. For every 
+link to another site, do a Google <b>site:</b> search to see if it's flagged. If 
+it is, remove the link. </p>
+
+<h2>8) Advertisements that Google considers badware </h2>
+
+<p>If you run affiliate ads or ads from advertising networks, you usually put 
+the ads on the page by inserting iframe links or JavaScript into the code of 
+your pages. The ads are retrieved from the third party sites only when your page 
+is loaded into a visitor's browser. </p>
+<p>There are a few advertising networks that do 
+things in their code that StopBadware and Google consider badware behavior. 
+There are also ad networks that fail to properly screen the ads submitted by 
+advertisers for distribution, so sometimes malicious ads get into their inventory. Make a list of the 
+advertisers you are affiliated with. Do a web search on them or ask about them 
+in a forum where there are people who might be up-to-date with which advertisers (if any) are currently problematic. 
+An example of a web search that I have found useful is: </p>
+<p align="center"><i>advertiser</i> badware OR StopBadware OR malware OR virus 
+</p>
+<p>Bad ads can slip into even the big ad networks.
+<a title="eWeek article: DoubleClick serves up vast malware blitz" href="http://www.eweek.com/c/a/Security/DoubleClick-Serves-Up-Vast-Malware-Blitz/">
+DoubleClick clients got hit in 2007</a>. </p>
+<p>An increasing amount of advertising is being served in Flash .swf files. These files can be flagged as badware, too. See the next section. </p>
+<h2><a name="shockwaveflash"></a>9) Out-of-date, exploitable, malicious Shockwave Flash files </h2>
+<p>There have been numerous <a title="View Secunia security advisories about Adobe products." href="http://secunia.com/advisories/search/?search=adobe">security 
+vulnerabilities found in Flash</a>. In addition, Flash scripting allows authors to embed badware behavior such 
+as redirecting to a different website while the user is helpless to prevent it. </p>
+<p>Whether your Flash files serve third-party advertising or merely your own content, they will get flagged if Google determines they have malicious scripting 
+or are otherwise a hazard to a visitor's PC. </p>
+<p>The easiest way to determine whether .swf files are the reason for your site being flagged is to remove the files as part of your initial site cleanup. After 
+the badware flag is removed from your site, put the files back. If the flag returns, they're a problem. You can also try scanning your .swf files with the
+<a href="http://www.adopstools.net/">AdopsTools Online click checker</a>, which gives you a report about the file's content.</p>
+<p>These links might help you investigate further:</p>
+<ul>
+	<li><a href="http://www.informationweek.com/news/internet/showArticle.jhtml?articleID=206401955">InformationWeek</a> explains 
+	(overview) why Flash can be dangerous</li>
+	<li>How sleazy operators slipped malware <a href="http://sunbeltblog.blogspot.com/2007/11/rogue-ads-on-ad-networks.html">Flash 
+	advertisements</a> into an ad network</li>
+	<li>List of <a href="http://docs.google.com/View?docid=ajfxntc4dmsq_14dt57ssdw">Flash authoring tools</a> with critical 
+	vulnerabilities; recommended solutions</li>
+</ul>
+<p>Technical articles:</p>
+<ul>
+	<li><a href="http://www.adobe.com/devnet/flashplayer/articles/secure_swf_apps_print.html">Adobe</a> article about creating 
+	more secure SWF web applications</li>
+	<li>Adobe Flash CS3 Documentation on Flash Player Security aspects of Programming
+	<a href="http://livedocs.adobe.com/flash/9.0/main/wwhelp/wwhimpl/common/html/wwhelp.htm?context=LiveDocs_Parts&amp;file=00000347.html#wp152550">
+	ActionScript 3.0</a>. </li>
+</ul>
+<p>While you are investigating and fixing your site, you might want to keep Flash disabled in your browser in case you have a bad .swf file. </p>
+<p>In Internet Explorer, go to Tools &gt; Manage Add-ons &gt; Enable or Disable Add-ons &gt; Add-ons that have been used by Internet 
+Explorer. Disable two items: 1) Shockwave Flash Object and 2) Shockwave ActiveX Control (if present). </p>
+<p>For Firefox, there is a highly recommended plug-in called
+<a title="Go to download page for the NoScript Firefox add-on." href="https://addons.mozilla.org/en-US/firefox/addon/722">NoScript</a> 
+to block Flash, JavaScript, Java, and more.&nbsp; </p>
+<h2>10) Advertisements from otherwise legitimate ad networks that have been 
+hacked and are now serving badware </h2>
+<p>Even if your advertisers normally use only legitimate methods, their ads might have been replaced with malicious code, which would 
+start appearing on your pages instead of the usual ads. </p>
+<p>This is a danger anytime 
+your pages pull some of their content from other sites. </p>
+<p>This is one case 
+where the only way to detect the malicious code is to visit your site 
+pages with your browser, to make sure all the ads are the legitimate ones you 
+expect. If you are affected by the problems an advertising network is having, you won't be the 
+only one, so a web search should turn up other similar reports. </p>
+<h2>11) Other third party content</h2>
+<p>If you use <i>any</i> code that includes content from a remote site, such as</p>
+<ul>
+	<li>iframes or JavaScript with a property of &quot;src=http://othersite.com&quot;, or </li>
+	<li>PHP scripts that use include(&quot;http://othersite.com/file.php&quot;), 
+	or the related include_once(), require(), and require_once(),</li>
+</ul>
+<p>there is always the danger that a problem at the other site could affect <i>your</i> pages. </p>
+
+<h2>12) Database content from your CMS. </h2>
+<p>If content for 
+your site pages is stored in a Content Management System (CMS) database, it is possible that an
+<a title="Short explanation of SQL injection." href="2008/20080311.htm#sqlinjection">SQL injection attack</a> inserted malicious code into the database 
+tables, and it is getting into your pages from there. </p>
+
+<p>One way to search or visually inspect and clean the data in your database tables is with cPanel &gt; phpMyAdmin. </p>
+<p>Another way that should sometimes be workable is to go to cPanel &gt; Backups and download a backup of the database in sql.gz 
+format which is a plain text file when it's <a title="How to unzip a .gz file." href="20070705.htm#howtogzunzip">decompressed</a>. 
+If your antivirus software allows you to keep the downloaded file (it might detect the malware and quarantine the file instantly), 
+and if the database isn't huge, you can view the text in a text editor, search and replace the malicious code, and upload the 
+cleaned database back to the server.&nbsp; </p>
+<p>The easiest way to 
+clean the database is to restore it from a known-good backup. </p>
+
+<h2>13) Rewrites or redirects in your .htaccess file(s)</h2>
+<p>Examine your site configuration files such as Apache .htaccess and httpd.conf for code that 
+sends your visitors to a malicious site. Look for lines containing the words Rewrite or Redirect with 
+references to sites that aren't yours, and RewriteRule lines referring to google.com or yahoo.com. htaccess exploits often redirect 
+only if the visitor came from a search engine. If your visitors report being redirected and you can't reproduce the behavior 
+yourself, try going to your site from a Google search result.&nbsp;&nbsp; </p>
+<p>In your existing .htaccess files, search carefully and scroll all the way to the bottom of the file. Sometimes hundreds of 
+blank lines are inserted before the malicious code. </p>
+<p>Look for new .htaccess files that might have been added to the site. Search all the folders inside /public_html and also the 
+folder(s) above /public_html. </p>
+<h2>14) JavaScript redirects</h2>
+<p>JavaScript is another way your page can automatically redirect visitors to a different website. While examining the JavaScript 
+in your site, look for code like the following. It can be in the JavaScript code in your pages, or, increasingly common, injected 
+into your .js files that are called by your pages: </p>
+<p><font face="Courier New">window.location=&quot;http://unknownsite.com/&quot;<br>
+window.location.replace(&quot;http://unknownsite.com/&quot;)</font></p>
+
+<h2>15) Meta-refresh redirects</h2>
+<p>An HTML meta-refresh is yet another way to automatically redirect visitors to a different website. Look for code like this within the &lt;head&gt;&lt;/head&gt; sections of your documents: </p>
+<p><font face="Courier New">&lt;meta http-equiv=&quot;refresh&quot; content=&quot;<span style="background-color: #FFFF00">0</span>; 
+url=http://unknownsite.com/&quot;&gt;<br>
+&lt;meta http-equiv=&quot;location&quot; content=&quot;<span style="background-color: #FFFF00">0</span>;url=http://unknownsite.com/&quot;&gt;</font></p>
+<p>These examples redirect to the other page after <span style="background-color: #FFFF00">0</span> seconds.</p>
+<h2>16) Check your error pages </h2>
+<p>If you have custom error pages that you created and that are stored within your website, you probably examined those files 
+already in the previous steps.</p>
+<p>However, many websites don't have custom error documents. In that case, the server uses its default error documents which are 
+stored outside your website. You can test those by provoking a server error and checking the page you receive:</p>
+<ol>
+	<li>Make sure your antivirus program is up to date.</li>
+	<li>Turn off JavaScript so your browser won't execute any scripts. </li>
+	<li>Using your browser, go to: http://yoursite.com/notarealpage.html </li>
+	<li>You should get a &quot;404 Not Found&quot; error page. </li>
+	<li>View its source code in your browser:<br>
+	IE7: Page &gt; View Source <br>
+	FF&nbsp; : View &gt; Page Source</li>
+	<li>Look for the same types of injected links and virus code that you searched for on your other pages earlier.</li>
+</ol>
+<p>If you find bad links or viruses on your server's default error pages, it is a sign that the server, not just your website, has 
+been compromised. Continue to the next step, and notify your webhosting company. </p>
+<h2>17) Server has a rootkit installed</h2>
+<p>A rootkit is a type of infection that installs malicious programs to partially replace the server's operating 
+system. It performs ordinary operating system tasks just like the OS would, but 
+it also performs whatever malicious activity it is programmed to do. Because it controls operating system tasks, it can hide itself. 
+A server compromised with a rootkit-type infection cannot be trusted at all, not even to properly report on its own status or 
+give accurate directory listings. </p>
+<p>If you have thoroughly investigated all the preceding possibilities and you 
+are sure everything inside your site is clean, it is possible that areas of your server outside your website are 
+compromised (such as the default error pages in the previous step), or the server itself might be infected 
+with software such as a rootkit. It might be injecting malicious content onto 
+your pages in real time, after the pages are read from disk and just before they are sent out. </p>
+<p>One possible indication of a compromised server is a situation where, even though your request wasn't redirected to some other 
+malicious website (that is, you <i>are</i> getting a page from your site), the page you get in your browser is completely 
+different -- every time, or just sometimes -- from the one that you know is on your server. For example, the page on your server 
+is completely clean, but when you request it with your browser or with wget, it's nothing but a page full of JavaScript, or a page 
+with an iframe in it. One type of attack that works this way is called <i>beladen</i>.&nbsp;</p>
+<p>The behavior described above is not proof of a compromised server, however. For example, it is possible for the hacker to put 
+new pages -- or even an entire website -- inside your website and then use .htaccess rewrites or PHP code to serve those pages 
+instead of the requested ones. In this case, the pages are actually in your site and there is no server-wide compromise. With any 
+luck, the investigation you've done to this point would already have uncovered either the hidden files or the rewrite code that is 
+causing them to be served. </p>
+<p>If you truly believe your server is compromised and you're on <b>shared hosting</b>, there is nothing you can do to repair the 
+damage to the server. File a support ticket with your webhost and ask them to investigate. While you wait, you can:</p>
+<ol>
+	<li>Identify other sites hosted on your server (your neighbors): 
+	<ol type="a">
+		<li>Do a web search on &quot;reverse ip&quot;, and choose a lookup provider. Some are free. </li>
+		<li>Do a Google <b>site:</b> search on your neighbors to see if they are flagged. </li>
+		<li>If several are flagged, it's evidence of a server-wide problem, and it might help convince your host of the need to 
+		investigate. <br>
+&nbsp;</li>
+	</ol>
+	</li>
+	<li>Examine your site files. This 
+time, search not for injected malicious code, but for <i>security vulnerabilities</i> in your code. Also research lists of known 
+	vulnerabilities in the third-party applications you use. Even if your entire server is compromised, there is always the 
+	possibility that a security hole in your site was what allowed it to happen. It would not necessarily modify the files inside your site. 
+	So, since you can't do much else, use the time to check your site for security holes before it goes live again on a freshly 
+	cleaned server. </li>
+</ol>
+<p>If you run a <b>dedicated server</b>, reformat the hard drive, reinstall and 
+configure the operating system and server software, reinstall your site from 
+known-good backups, --&gt; fix the security vulnerability that allowed the compromise to occur &lt;--, and start fresh. </p>
+<p>Server-wide compromises used to be rare. In 2009, with exploits such as <i>beladen</i>, the incidence is increasing. It is 
+still almost the last thing you should suspect, but it's not as unlikely as it used to be. </p>
+<p>You might find the following articles useful if you suspect a server-wide compromise. The attacks discussed were from 2008, but 
+their methods may have evolved into the more widespread attacks being seen today:</p>
+<ul>
+	<li>cpanel.net information about the &quot;<a title="Information about Random JavaScript Toolkit at cPanel.net" href="http://www.cpanel.net/2008/01/components-of-random-javascript-toolkit-identified.html">Random 
+	JavaScript Toolkit</a>&quot;.</li>
+	<li><a href="http://forums.cpanel.net/showthread.php?t=74963">Discussion</a> at cpanel.net forum about server diagnostics, possible repair methods. 
+	The Random JS Toolkit was not specific to cPanel, but cPanel discussed it the 
+	most. Registration (free) is required to read their forum. Register with the screen name you actually want (not your real full 
+	name). Unlike some forums, you cannot specify a different screen name after you join, nor change the one you joined with.&nbsp; </li>
+	<li><a href="http://forums.cpanel.net/showthread.php?t=65013">Similar forum thread</a>.</li>
+</ul>
+
+<h2>18) DNS cache poisoning</h2>
+<p>People think of website addresses as text like http://website.com, but web addresses are really numbers called 
+<a title="Previous article with more information about web addresses." href="20071219.htm">IP addresses</a>. Before a browser can 
+fetch a web page from a site, it must first send a query to a <i>DNS Server</i> to get the site's correct numeric address. </p>
+<p>Occasionally, someone manages to inject bad data into a DNS server so the IP address translations it returns are <i>wrong</i>. If someone tries to visit your 
+website but their browser gets your IP address from a poisoned DNS server, they will be sent to a completely wrong website. That site might have malicious 
+content, which could cause your site to be flagged for badware. </p>
+<p>When investigating your badware flag, this is a &quot;way-out-there&quot; scenario, rare and unlikely, but it has happened, so it's included here for completeness. </p>
+<h2>19) Ask for help</h2>
+<p>If the reason your site is flagged remains a mystery, feel free to post a message in our forum.&nbsp; </p>
+
+<h2>20) Request a review from Google or StopBadware </h2>
+
+<p>After you have found and resolved all the likely reasons your site got 
+flagged, file a request for review in the Webmaster Tools section of
+<a title="Go to Google Webmaster Central" href="http://www.google.com/webmasters/">
+Google Webmaster Central</a>, or on the StopBadware
+<a title="Go to StopBadware Request for Review." href="http://www.stopbadware.org/home/reviewinfo">
+Request for Review</a> form. If they find that the badware or badware links are 
+gone, the warning flag is usually removed within <b>1 to a few days</b>, even though 
+their submission form says to allow longer. </p>
+<p>If you changed nothing on your site, but only submit the review request, 
+the flag will not be removed. Google's accuracy at identifying malware is nearly 
+100%. </p>
+
+<hr style="height:16px">
+
+<h1>Other resources </h1>
+<ul>
+	<li>
+	<a title="StopBadware guide to cleaning and securing your website" href="http://www.stopbadware.org/home/security">
+	StopBadware Tips for Cleaning &amp; Securing Your Website</a> has information 
+	about additional aspects of badware. It is in some areas more detailed, and 
+	in others less, than what I have presented here. </li>
+	<li>If it turns out your site was hacked, see the
+	<a title="What to do after your website gets hacked, and how to prevent it." href="20070705.htm">
+	step-by-step guide how to repair a hacked website</a> and the several other articles that it links to.</li>
+	<li>The malicious code (if any) that you find on your pages might not look very 
+threatening at first glance, often because what you see is only a reference to additional code hosted on another website, but it 
+	can be very 
+	dangerous. To get an idea what the current crop of badware is like, see
+	<br>
+	<a title="Go to SANS Diary article about MPack and RBN." href="http://isc.sans.org/diary.html?storyid=3015">
+	MPack Analysis (Overview of MPack and Russian Business Network)</a>,<br>
+	<a title="More information about MPack and RBN." href="http://isc.sans.org/diary.html?storyid=2991">
+	Massive MPACK Compromise</a>
+	(follow all 4 links at the bottom of that page, which provide additional 
+	detail about MPack and its effects), <br>
+	<a title="PCWorld article about JavaScript that changes every time it is served." href="http://www.pcworld.com/article/id,135483-c,onlinesecurity/article.html">
+	New JavaScript that evades antivirus detection</a>. 
+	If your site is serving this code, your visitors' antivirus software (assuming they have any, which many do not) might not be 
+	able to 
+	protect them. 
+	</li>
+</ul>
+
+<hr style="height:16px">
+
+<h1>Keeping badware off your site </h1>
+<p>The most important ways to keep badware off your site are </p>
+<ol>
+	<li>
+	<a title="How to secure your website." href="20070705.htm#website-security-precautions">Avoid getting hacked</a>. </li>
+	<li>Use a <a title="CAPTCHA article at Wikipedia." href="http://en.wikipedia.org/wiki/Captcha">CAPTCHA</a> 
+	to prevent robots from posting spam comments. A CAPTCHA is an image 
+	that humans can read, but robots can't. Some forum (and other) software has 
+	this feature in it already, and all you have to do is enable it. </li>
+	<li>Monitor forum posts and blog comments so you can catch and remove links to malicious sites. </li>
+	<li>Keep to a minimum the amount of content served to your pages by outside (third party) websites. </li>
+	<li>Use only trusted advertising networks. If a network has been identified 
+	as the cause for badware flags, avoid it until you are sure the problem is resolved. </li>
+	<li>If a site has an obviously careless attitude toward security, don't link 
+	to it. Clues would be outdated versions of forum and blog software, spam 
+	posts that haven't been removed, and areas where anyone can upload content 
+	for others to download.</li>
+	<li>Keep the number of outlinks down to the number you are willing to check 
+	manually. The more outlinks you have, the more likely you will get 
+	badware-flagged. If you get flagged, you might have to check them all or remove 
+	them. </li>
+</ol>
+
+<hr style="height:16px">
+<p>Comments, questions, and discussion welcome in the
+<a title="Comments section is in the forum." href="../forum/index.php?topic=52.0">Forum</a>. 
+</p>
+
+<p>In case you're wondering, no this site has never been flagged. I have helped numerous webmasters get the warning removed, both 
+in discussion forums and for hire. 
+</p>
+
+<hr style="height:16px">
+<h1><a name="ie7warning"></a>Notes</h1>
+<ul>
+	<li>Many people find this page while searching for information about a <b>popup</b>, <i>claiming</i> to be from IE7, that 
+	says: &quot;<b>Internet Explorer Warning - visiting this web site may harm your computer</b>&quot;. 
+Although the message is similar to the one from Google discussed in the article above, it is <b>not</b> related. It is also <i>not</i> 
+from IE7. It is a popup generated by malware that is trying to infect your computer. Do not visit any website that it 
+tries to make you visit, and do not download or run any program 
+that it tries to &quot;recommend&quot;. There is a bit more information 
+	in my article about <a title="How to improve security in IE7" href="2008/20080524.htm#fakeantiviruswarning">high security in 
+	IE7</a>. 
+Also do a web search on <b>rogue antivirus</b> to find useful information and possibly screenshots that match the ones 
+	you are seeing, to help you identify it. I've recently learned that this page you are reading now is one of the ones these 
+	fake antivirus programs try to prevent you from visiting.<br>
+&nbsp;</li>
+
+<li>Thank you for linking to this page. Its address is:<br>
+<font face="Courier New" size="4">http://25yearsofprogramming.com/blog/20071223.htm</font>&nbsp;&nbsp; 
+</li>
+</ul>
+
+		</td>
+	</tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" width="100%"><tr><td align="center"><iframe src="http://rcm.amazon.com/e/cm?lt1=_top&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=25yearsofprog-20&amp;o=1&amp;p=8&amp;l=as1&amp;m=amazon&amp;f=ifr&amp;asins=B001E0RZ3U" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_top&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=25yearsofprog-20&amp;o=1&amp;p=8&amp;l=as1&amp;m=amazon&amp;f=ifr&amp;asins=B0018EI3I8" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<br><iframe src="http://rcm.amazon.com/e/cm?t=25yearsofprog-20&amp;o=1&amp;p=20&amp;l=qs1&amp;f=ifr" width="120" height="90" frameborder="0" scrolling="no"></iframe>
+</td></tr></table>
+
+<p>&nbsp;</p>
+
+<table width="100%">
+	<tr>
+		<td valign="middle" align="left" width="200" style="font-family:Verdana,Arial,Helvetica,sans-serif;">
+		
+<a href="http://validator.w3.org/check?uri=referer"><img src="/images/valid-html401.png" alt="Valid HTML 4.01 Transitional" title="Valid HTML 4.01 Transitional" height="31" width="88" border="0"></a> <a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="/images/valid-css.gif" alt="Valid CSS" title="Valid CSS" height="31" width="88" border="0"></a>		
+		</td>
+		<td valign="middle" align="center">
+
+<!-- START CODE --> 
+	<div id="ysrchForm" style="border:1px solid #FFFFFF;
+                               background:#BBBBBB;
+                               width:400px;
+                               margin:0 auto;
+                               padding:20px; 
+                               position:relative;
+                             ">
+          <form id="searchBoxForm_U0adde297cb9e50f1dce3" action="http://builder.search.yahoo.com/a/bouncer" style="padding:0;">
+                        <input name="mobid" value="U0adde297cb9e50f1dce3" type="hidden">
+			<input name="ei" value="UTF-8" type="hidden"><input name="fr" value="ystg-c" type="hidden"><div style="padding:0 80px 0 0;">
+					<input type="text" id="searchTerm"
+						onFocus="this.style.background='#fff';"
+						onBlur="if(this.value=='')this.style.background='#fff url(http://us.i1.yimg.com/us.yimg.com/i/us/sch/gr/horiz_pwrlogo_red2.gif) 3px center  no-repeat'"
+						name="p" style=" margin:1px 0; width:100%; border:1px solid #FFFFFF; color:#666666; height:18px; padding:0px 3px; background:#fff url(http://us.i1.yimg.com/us.yimg.com/i/us/sch/gr/horiz_pwrlogo_red2.gif) 3px center no-repeat; position:relative;">
+					<input type="submit" id="btn_U0adde297cb9e50f1dce3" value="Search" 
+						style=" padding-bottom:2px; position:absolute; right:20px; top:20px; margin:0px; height:22px; width:65px; ">
+</div><ul style="color:#666666;
+           font:11px/11px normal Arial, Helvetica, sans-serif;
+	   margin:0;
+	   padding:0;
+	   text-align:left;
+	   list-style-type:none;"><li style="display:inline;padding-right:10px;">
+<input name="mobvs" id="web_U0adde297cb9e50f1dce3" value="0" onclick='displayPopSearch("web","U0adde297cb9e50f1dce3");'   type="radio" style="vertical-align:middle;margin-right:5px; ">
+<label for="web_U0adde297cb9e50f1dce3" style="display:inline;vertical-align:middle; padding-top:2px;">Web</label>
+</li><li style="display:inline;padding-right:10px;">
+<input name="mobvs" id="site_U0adde297cb9e50f1dce3" value="1" onclick='displayPopSearch("site","U0adde297cb9e50f1dce3");'  checked="checked" type="radio" style="vertical-align:middle;margin-right:5px; ">
+<label for="site_U0adde297cb9e50f1dce3" style="display:inline;vertical-align:middle; padding-top:2px;">this Site</label>
+</li><li style="display:inline;padding-right:10px;">
+<input name="mobvs" id="news_U0adde297cb9e50f1dce3" value="news" onclick='displayPopSearch("news","U0adde297cb9e50f1dce3");'   type="radio" style="vertical-align:middle;margin-right:5px; ">
+<label for="news_U0adde297cb9e50f1dce3" style="display:inline;vertical-align:middle; padding-top:2px;">News</label>
+</li></ul></form></div>
+<!-- END CODE --> 
+
+		
+		</td>
+		<td valign="middle" align="right" width="200" style="font-family:Verdana,Arial,Helvetica,sans-serif;">
+
+<a href="http://www.icra.org/sitelabel/"><img src="/images/icrawhite.gif" width="88" height="31" border="0" title="View content labeling at ICRA." alt="View content labeling at ICRA."></a>		
+		</td>
+	</tr>
+</table>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1089281-1";
+urchinTracker();
+</script>
+
+<h5>
+Copyright ©<!--webbot bot="TimeStamp" s-type="EDITED" s-format="%Y" startspan -->2010<!--webbot bot="TimeStamp" i-checksum="726" endspan --> Steven Whitney. 
+Last modified <!--webbot bot="TimeStamp" s-type="EDITED" s-format="%m/%d/%Y" startspan -->02/01/2010<!--webbot bot="TimeStamp" i-checksum="12497" endspan -->.</h5>
+</body>
+</html>
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=myjo1011.css
+Content-Type: text/css; charset=windows-1252; name=myjo1011.css
+Content-Location: http://25yearsofprogramming.com/css/myjournal1/myjo1011.css
+Content-Transfer-Encoding: 8bit
+
+/* These must be defined in this order: a:link, a:visited, a:hover, a:active */
+a:link
+{
+	color: rgb(0, 0, 255);
+}
+a:visited
+{
+	color: rgb(136, 0, 153);
+}
+a:hover
+{
+}
+a:active
+{
+	color: rgb(255, 0, 0);
+}
+body
+{
+	background-color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
+	font-family:'Verdana Ref',Verdana,Arial,Helvetica,sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+table
+{
+	border-color: rgb(102, 102, 102);
+}
+th
+{
+	border-color: rgb(102, 102, 102);
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+}
+td
+{
+	border-color: rgb(102, 102, 102);
+}
+h1
+{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:bold;
+}
+h2
+{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+h3
+{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+h4
+{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+h5
+{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+h6
+{
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+hr
+{
+	color:rgb(154, 154, 154);
+	background-color:rgb(154, 154, 154);
+	border:0px solid rgb(154, 154, 154);
+	height:2px;
+}
+iframe
+{
+	margin-bottom:8px;
+/*	margin-right:1em; */
+}
+button
+{
+	background-color: rgb(236,233,216);
+	color: rgb(0,0,0);
+	border-style:solid;
+	border-width:1pt;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-style:normal;
+}
+label
+{
+	color: rgb(0, 0, 0);
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-style:normal;
+}
+/*	
+	list-style-type: disc, circle, square, none;
+	list-style-image: url(bull1_journal.gif);
+	list-style-image: url(bull2_journal.gif);
+	list-style-image: url(bull3_journal.gif);
+	list-style-image: none;
+*/
+ul
+{
+	list-style-type: disc;
+}
+ul ul
+{
+	list-style-type: circle;
+	list-style-image: url(bull1_journal.gif);
+}
+ul ul ul
+{
+	list-style-type: square;
+	list-style-image: url(bull2_journal.gif);
+}
+/*
+ul ul ul ul
+{
+	list-style-image: none;
+	list-style-type: circle;
+}
+ul ul ul ul ul
+{
+	list-style-image: url(bull2_journal.gif);
+}
+ul ul ul ul ul ul
+{
+	list-style-image: url(bull3_journal.gif);
+}
+*/
+textarea
+{
+	color: rgb(0, 0, 0);
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-style:normal;
+}
+fieldset
+{
+	color: rgb(0, 0, 0);
+	border-style:solid;
+	border-width:1pt;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-style:normal;
+}
+legend
+{
+	color: rgb(0, 0, 0);
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-style:normal;
+}
+select
+{
+	color: rgb(0, 0, 0);
+	border-style:solid;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-style:normal;
+}
+caption
+{
+	color: rgb(0, 0, 0);
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-style:normal;
+}
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=ifr.js
+Content-Type: text/javascript; charset=UTF-8; name=ifr.js
+Content-Location: http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/translatemypage.xml&up_source_language=en&w=160&h=60&title=&border=&output=js
+Content-Transfer-Encoding: 8bit
+
+/* Copyright 2007 and beyond, Google Inc.  To use gadgets on your own site, visit http://www.google.com/webmasters/gadgets.  To create your own gadgets, visit http://www.google.com/apis/gadgets */(function(){var c=document.bgColor;var r,g,b;if(c.length!=7){r=g=b=1;}else{c=c.substring(1,c.length);r=parseInt(c.substring(0,2),16)/255;g=parseInt(c.substring(2,4),16)/255;b=parseInt(c.substring(4,6),16)/255;}var bgcolor=((r+g+b)/3<0.5)?'ffffff':'0000cc';var c='color:#'+bgcolor+';';var blue='color:#0000cc;';var hover='color:#3366cc;';var visited='color:#551a8b;';var active='color:#ff0000;';var sz9='font-size:9px;';var sz12='font-size:12px;';var underline='text-decoration:underline;';var bold='font-weight:bold;';var misc='font-family:arial,sans-serif;'+'font-variant:normal;'+'font-style:normal;'+'word-spacing:normal;'+'letter-spacing:normal;'+'vertical-align:middle;'+'text-transform:none;'+'text-indent:0;'+'line-height:normal;'+'white-space:normal;';var css='<style>'+'.ig_tbl_img .ig_smbluetext{'+misc+blue+sz9+'}'+'.ig_tbl_img .ig_lgbluetext{'+misc+blue+sz12+'}'+'.ig_tbl_img .ig_smbluelink, .ig_tbl_img .ig_smbluelink:link{'+misc+blue+sz9+underline+'}'+'.ig_tbl_img .ig_lgbluelink, .ig_tbl_img .ig_lgbluelink:link{'+misc+blue+sz12+underline+'}'+'.ig_tbl_line .ig_smbluetext{'+misc+c+sz9+'}'+'.ig_tbl_line .ig_lgbluetext{'+misc+c+sz12+'}'+'.ig_tbl_line .ig_smbluelink, .ig_tbl_line .ig_smbluelink:link{'+misc+c+sz9+underline+'}'+'.ig_tbl_line .ig_lgbluelink, .ig_tbl_line .ig_lgbluelink:link{'+misc+c+sz12+underline+'}'+'.ig_smbluelink:hover{'+misc+hover+sz9+underline+'}'+'.ig_smbluelink:visited{'+misc+visited+sz9+underline+'}'+'.ig_smbluelink:active{'+misc+active+sz9+underline+'}'+'.ig_lgbluelink:hover{'+misc+hover+sz12+underline+'}'+'.ig_lgbluelink:visited{'+misc+visited+sz12+underline+'}'+'.ig_lgbluelink:active{'+misc+active+sz12+underline+'}'+'</style>';var html='\x3cstyle\x3e.ig_tbl_img table,.ig_tbl_img tr,.ig_tbl_img td,.ig_tbl_img a,.ig_tbl_img span,.ig_tbl_line table,.ig_tbl_line tr,.ig_tbl_line td,.ig_tbl_line a,.ig_tbl_line span,ig_reset{margin:0;padding:0;padding-left:0;padding-right:0;border:0;border-collapse:collapse;float:none;clear:none;width:auto;height:auto;background:transparent none;background-position:0%;font-family:arial,sans-serif;font-variant:normal;font-style:normal;word-spacing:normal;letter-spacing:normal;vertical-align:middle;text-transform:none;text-indent:0;line-height:1.0;white-space:normal;top:auto;bottom:auto;}\x3c/style\x3e\x3ctable class\x3d\x22ig_reset ig_tbl_line\x22width\x3d160\x3e\x3ctr\x3e\x3ctd colspan\x3d2 style\x3d\x22vertical-align:bottom;text-align:center;width:100%;\x22\x3e  \x3c/td\x3e\x3c/tr\x3e\x3ctr\x3e\x3ctd style\x3d\x22height:2px;\x22\x3e \x3c/td\x3e\x3c/tr\x3e\x3ctr\x3e\x3ctd colspan\x3d2\x3e\x3ciframe src\x3d\x22http://www.gmodules.com/ig/ifr?url\x3dhttp://www.google.com/ig/modules/translatemypage.xml\x26amp;up_source_language\x3den\x26amp;w\x3d160\x26amp;h\x3d60\x26amp;title\x3d\x26amp;border\x3d\x26amp;source\x3d__LOCATION__\x22 width\x3d160 height\x3d60 style\x3d\x22display:block;overflow:autohidden\x22 frameborder\x3d0 scrolling\x3d\x22no\x22\x3e\x3c/iframe\x3e\x3c/div\x3e\x3c/td\x3e\x3c/tr\x3e\x3ctr\x3e\x3ctd style\x3d\x22text-align:left\x22\x3e\x3c/td\x3e\x3ctd style\x3d\x22text-align:right;vertical-align:middle;height:18px\x22\x3e\x3cdiv id\x3d\x22right_164309472\x22\x3e\x3ca target\x3d_top style\x3d\x22font-size:10px;color:#0000cc;text-decoration:underline;\x22 href\x3d\x22http://www.google.com/webmasters/gadgets.html\x22\x3e Gadgets\x3c/a\x3e\x3cspan style\x3d\x22font-size:10px;color:#0000cc;\x22\x3e - powered by Google\x3c/span\x3e\x3c/div\x3e\x3c/td\x3e\x3c/tr\x3e\x3c/table\x3e';html=html.replace(/__LOCATION__/g, encodeURIComponent(location.href));document.write(css + html);})();   
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=show_ads.js
+Content-Type: text/javascript; charset=UTF-8; name=show_ads.js
+Content-Location: http://pagead2.googlesyndication.com/pagead/show_ads.js
+Content-Transfer-Encoding: Quoted-Printable
+
+(function(){var g=3Dtrue,h=3Dnull,j=3Dfalse,aa=3D(new Date).getTime(),k=3D=
+function(a){var b=3D(new Date).getTime()-aa;b=3D"&dtd=3D"+(b<1E3?b:"M");=
+return a+b};var l=3Dthis,ba=3Dfunction(a,b,c){a=3Da.split(".");c=3Dc||l;=
+!(a[0]in c)&&c.execScript&&c.execScript("var "+a[0]);for(var d;a.length&=
+&(d=3Da.shift());)if(!a.length&&b!=3D=3Dundefined)c[d]=3Db;else c=3Dc[d]=
+?c[d]:(c[d]=3D{})},m=3Dfunction(a){var b=3Dtypeof a;if(b=3D=3D"object")i=
+f(a){if(a instanceof Array||!(a instanceof Object)&&Object.prototype.toS=
+tring.call(a)=3D=3D"[object Array]"||typeof a.length=3D=3D"number"&&type=
+of a.splice!=3D"undefined"&&typeof a.propertyIsEnumerable!=3D"undefined"=
+&&!a.propertyIsEnumerable("splice"))return"array";
+if(!(a instanceof Object)&&(Object.prototype.toString.call(a)=3D=3D"[obj=
+ect Function]"||typeof a.call!=3D"undefined"&&typeof a.propertyIsEnumera=
+ble!=3D"undefined"&&!a.propertyIsEnumerable("call")))return"function"}el=
+se return"null";else if(b=3D=3D"function"&&typeof a.call=3D=3D"undefined=
+")return"object";return b},o=3Dfunction(a){return m(a)=3D=3D"array"},ca=3D=
+function(a){var b=3Dm(a);return b=3D=3D"array"||b=3D=3D"object"&&typeof =
+a.length=3D=3D"number"},p=3Dfunction(a){return typeof a=3D=3D"string"},d=
+a=3Dfunction(a){a=3Dm(a);return a=3D=3D"object"||
+a=3D=3D"array"||a=3D=3D"function"},ea=3Dfunction(a){var b=3Dm(a);if(b=3D=
+=3D"object"||b=3D=3D"array"){if(a.clone)return a.clone.call(a);b=3Db=3D=3D=
+"array"?[]:{};for(var c in a)b[c]=3Dea(a[c]);return b}return a},fa=3Dfun=
+ction(a,b){var c=3Db||l;if(arguments.length>2){var d=3DArray.prototype.s=
+lice.call(arguments,2);return function(){var e=3DArray.prototype.slice.c=
+all(arguments);Array.prototype.unshift.apply(e,d);return a.apply(c,e)}}e=
+lse return function(){return a.apply(c,arguments)}},ga=3DDate.now||funct=
+ion(){return+new Date},q=3Dfunction(a,
+b,c){ba(a,b,c)};var r=3DArray.prototype,ha=3Dr.forEach?function(a,b,c){r=
+.forEach.call(a,b,c)}:function(a,b,c){for(var d=3Da.length,e=3Dp(a)?a.sp=
+lit(""):a,f=3D0;f<d;f++)f in e&&b.call(c,e[f],f,a)},ia=3Dfunction(){retu=
+rn r.concat.apply(r,arguments)},ja=3Dfunction(a){if(o(a))return ia(a);el=
+se{for(var b=3D[],c=3D0,d=3Da.length;c<d;c++)b[c]=3Da[c];return b}};var =
+s=3Dfunction(a,b){this.width=3Da;this.height=3Db};s.prototype.clone=3Dfu=
+nction(){return new s(this.width,this.height)};s.prototype.toString=3Dfu=
+nction(){return"("+this.width+" x "+this.height+")"};s.prototype.ceil=3D=
+function(){this.width=3DMath.ceil(this.width);this.height=3DMath.ceil(th=
+is.height);return this};s.prototype.floor=3Dfunction(){this.width=3DMath=
+.floor(this.width);this.height=3DMath.floor(this.height);return this};
+s.prototype.round=3Dfunction(){this.width=3DMath.round(this.width);this.=
+height=3DMath.round(this.height);return this};s.prototype.scale=3Dfuncti=
+on(a){this.width*=3Da;this.height*=3Da;return this};var ka=3Dfunction(a,=
+b,c){for(var d in a)b.call(c,a[d],d,a)};var qa=3Dfunction(a,b){if(b)retu=
+rn a.replace(la,"&amp;").replace(ma,"&lt;").replace(na,"&gt;").replace(o=
+a,"&quot;");else{if(!pa.test(a))return a;if(a.indexOf("&")!=3D-1)a=3Da.r=
+eplace(la,"&amp;");if(a.indexOf("<")!=3D-1)a=3Da.replace(ma,"&lt;");if(a=
+.indexOf(">")!=3D-1)a=3Da.replace(na,"&gt;");if(a.indexOf('"')!=3D-1)a=3D=
+a.replace(oa,"&quot;");return a}},la=3D/&/g,ma=3D/</g,na=3D/>/g,oa=3D/\"=
+/g,pa=3D/[&<>\"]/,ta=3Dfunction(a){if(a.indexOf("&")!=3D-1)return"docume=
+nt"in l&&a.indexOf("<")=3D=3D-1?ra(a):sa(a);return a},ra=3Dfunction(a){v=
+ar b=3D
+l.document.createElement("a");b.innerHTML=3Da;b.normalize&&b.normalize()=
+;a=3Db.firstChild.nodeValue;b.innerHTML=3D"";return a},sa=3Dfunction(a){=
+return a.replace(/&([^;]+);/g,function(b,c){switch(c){case "amp":return"=
+&";case "lt":return"<";case "gt":return">";case "quot":return'"';default=
+:if(c.charAt(0)=3D=3D"#"){c=3DNumber("0"+c.substr(1));if(!isNaN(c))retur=
+n String.fromCharCode(c)}return b}})},ua=3Dfunction(a,b){for(var c=3Db.l=
+ength,d=3D0;d<c;d++){var e=3Dc=3D=3D1?b:b.charAt(d);if(a.charAt(0)=3D=3D=
+e&&a.charAt(a.length-1)=3D=3De)return a.substring(1,
+a.length-1)}return a},va=3Dfunction(a,b){var c=3D0;a=3DString(a).replace=
+(/^[\s\xa0]+|[\s\xa0]+$/g,"").split(".");b=3DString(b).replace(/^[\s\xa0=
+]+|[\s\xa0]+$/g,"").split(".");for(var d=3DMath.max(a.length,b.length),e=
+=3D0;c=3D=3D0&&e<d;e++){var f=3Da[e]||"",i=3Db[e]||"",n=3Dnew RegExp("(\=
+\d*)(\\D*)","g"),z=3Dnew RegExp("(\\d*)(\\D*)","g");do{var G=3Dn.exec(f)=
+||["","",""],H=3Dz.exec(i)||["","",""];if(G[0].length=3D=3D0&&H[0].lengt=
+h=3D=3D0)break;c=3DG[1].length=3D=3D0?0:parseInt(G[1],10);var ob=3DH[1].=
+length=3D=3D0?0:parseInt(H[1],10);c=3Dt(c,ob)||
+t(G[2].length=3D=3D0,H[2].length=3D=3D0)||t(G[2],H[2])}while(c=3D=3D0)}r=
+eturn c},t=3Dfunction(a,b){if(a<b)return-1;else if(a>b)return 1;return 0=
+};ga();var u,v,w,x,y,wa,xa,ya,za,Aa=3Dfunction(){return l.navigator?l.na=
+vigator.userAgent:h},A=3Dfunction(){return l.navigator},Ba=3Dfunction(){=
+y=3Dx=3Dw=3Dv=3Du=3Dj;var a;if(a=3DAa()){var b=3DA();u=3Da.indexOf("Oper=
+a")=3D=3D0;v=3D!u&&a.indexOf("MSIE")!=3D-1;x=3D(w=3D!u&&a.indexOf("WebKi=
+t")!=3D-1)&&a.indexOf("Mobile")!=3D-1;y=3D!u&&!w&&b.product=3D=3D"Gecko"=
+}};Ba();
+var B=3Du,C=3Dv,Ca=3Dy,D=3Dw,Da=3Dx,Ea=3Dfunction(){var a=3DA();return a=
+&&a.platform||""},E=3DEa(),Fa=3Dfunction(){wa=3DE.indexOf("Mac")!=3D-1;x=
+a=3DE.indexOf("Win")!=3D-1;ya=3DE.indexOf("Linux")!=3D-1;za=3D!!A()&&(A(=
+).appVersion||"").indexOf("X11")!=3D-1};Fa();
+var Ga=3Dwa,Ha=3Dxa,Ia=3Dya,Ja=3Dfunction(){var a=3D"",b;if(B&&l.opera){=
+a=3Dl.opera.version;a=3Dtypeof a=3D=3D"function"?a():a}else{if(Ca)b=3D/r=
+v\:([^\);]+)(\)|;)/;else if(C)b=3D/MSIE\s+([^\);]+)(\)|;)/;else if(D)b=3D=
+/WebKit\/(\S+)/;if(b)a=3D(a=3Db.exec(Aa()))?a[1]:""}return a},Ka=3DJa(),=
+La=3D{},F=3Dfunction(a){return La[a]||(La[a]=3Dva(Ka,a)>=3D0)};var Ma=3D=
+function(a){return p(a)?document.getElementById(a):a},Na=3DMa,Pa=3Dfunct=
+ion(a,b){ka(b,function(c,d){if(d=3D=3D"style")a.style.cssText=3Dc;else i=
+f(d=3D=3D"class")a.className=3Dc;else if(d=3D=3D"for")a.htmlFor=3Dc;else=
+ if(d in Oa)a.setAttribute(Oa[d],c);else a[d]=3Dc})},Oa=3D{cellpadding:"=
+cellPadding",cellspacing:"cellSpacing",colspan:"colSpan",rowspan:"rowSpa=
+n",valign:"vAlign",height:"height",width:"width",usemap:"useMap",framebo=
+rder:"frameBorder",type:"type"},Qa=3Dfunction(a){var b=3Da.document;if(D=
+&&!F("500")&&!Da){if(typeof a.innerHeight=3D=3D
+"undefined")a=3Dwindow;b=3Da.innerHeight;var c=3Da.document.documentElem=
+ent.scrollHeight;if(a=3D=3Da.top)if(c<b)b-=3D15;return new s(a.innerWidt=
+h,b)}a=3Db.compatMode=3D=3D"CSS1Compat"&&(!B||B&&F("9.50"))?b.documentEl=
+ement:b.body;return new s(a.clientWidth,a.clientHeight)},Sa=3Dfunction()=
+{return Ra(document,arguments)},Ra=3Dfunction(a,b){var c=3Db[0],d=3Db[1]=
+;if(C&&d&&(d.name||d.type)){c=3D["<",c];d.name&&c.push(' name=3D"',qa(d.=
+name),'"');if(d.type){c.push(' type=3D"',qa(d.type),'"');d=3Dea(d);delet=
+e d.type}c.push(">");c=3Dc.join("")}var e=3D
+a.createElement(c);if(d)if(p(d))e.className=3Dd;else Pa(e,d);if(b.length=
+>2){d=3Dfunction(i){if(i)e.appendChild(p(i)?a.createTextNode(i):i)};for(=
+c=3D2;c<b.length;c++){var f=3Db[c];ca(f)&&!(da(f)&&f.nodeType>0)?ha(Ta(f=
+)?ja(f):f,d):d(f)}}return e},Ua=3Dfunction(a,b){a.appendChild(b)},Ta=3Df=
+unction(a){if(a&&typeof a.length=3D=3D"number")if(da(a))return typeof a.=
+item=3D=3D"function"||typeof a.item=3D=3D"string";else if(m(a)=3D=3D"fun=
+ction")return typeof a.item=3D=3D"function";return j};function I(a,b){a=3D=
+parseFloat(a);return isNaN(a)||a>1||a<0?b:a}function Va(a,b){if(a=3D=3D"=
+true")return g;if(a=3D=3D"false")return j;return b}function J(a,b){var c=
+=3D/^([\w-]+\.)+[\w-]{2,}(\:[0-9]+)?$/;return c.test(a)?a:b};var Wa=3Ddo=
+cument,Xa=3DVa("false",j),Ya=3DVa("false",j),Za=3DVa("false",j),K=3Dwind=
+ow;var $a=3D"pagead2.googlesyndication.com",ab=3D"googleads.g.doubleclic=
+k.net",bb=3D"googleads2.g.doubleclick.net",cb=3D"pubads.g.doubleclick.ne=
+t",db=3D"securepubads.g.doubleclick.net",eb=3D"partner.googleadservices.=
+com",fb=3DJ("pagead2.googlesyndication.com",$a),gb=3DJ("googleads.g.doub=
+leclick.net",ab),hb=3DJ("",bb),ib=3DJ("pagead2.googlesyndication.com",$a=
+);J("pubads.g.doubleclick.net",cb);J("partner.googleadservices.com",eb);=
+J("securepubads.g.doubleclick.net",db);var L=3Dfunction(a,b){for(var c i=
+n a)Object.prototype.hasOwnProperty.call(a,c)&&b.call(h,a[c],c,a)},jb=3D=
+function(a){if(arguments.length<2)return a.length;for(var b=3D1,c=3Dargu=
+ments.length;b<c;++b)a.push(arguments[b]);return a.length};function M(a)=
+{return typeof encodeURIComponent=3D=3D"function"?encodeURIComponent(a):=
+escape(a)}
+function kb(a,b,c){var d=3Ddocument.createElement("script");d.type=3D"te=
+xt/javascript";if(b)d.onload=3Db;if(c)d.id=3Dc;d.src=3Da;var e=3Ddocumen=
+t.getElementsByTagName("head")[0];if(!e)return j;window.setTimeout(funct=
+ion(){e.appendChild(d)},0);return g}function lb(a,b){a.google_image_requ=
+ests||(a.google_image_requests=3D[]);var c=3Dnew Image;c.src=3Db;a.googl=
+e_image_requests.push(c)}function mb(a){if(a in nb)return nb[a];return n=
+b[a]=3Dnavigator.userAgent.toLowerCase().indexOf(a)!=3D-1}var nb=3D{};
+function pb(){if(navigator.plugins&&navigator.mimeTypes.length){var a=3D=
+navigator.plugins["Shockwave Flash"];if(a&&a.description)return a.descri=
+ption.replace(/([a-zA-Z]|\s)+/,"").replace(/(\s)+r/,".")}else if(navigat=
+or.userAgent&&navigator.userAgent.indexOf("Windows CE")>=3D0){a=3D3;for(=
+var b=3D1;b;)try{b=3Dnew ActiveXObject("ShockwaveFlash.ShockwaveFlash."+=
+(a+1));a++}catch(c){b=3Dh}return a.toString()}else if(mb("msie")&&!windo=
+w.opera){b=3Dh;try{b=3Dnew ActiveXObject("ShockwaveFlash.ShockwaveFlash.=
+7")}catch(d){a=3D
+0;try{b=3Dnew ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");a=3D6;b.A=
+llowScriptAccess=3D"always"}catch(e){if(a=3D=3D6)return a.toString()}try=
+{b=3Dnew ActiveXObject("ShockwaveFlash.ShockwaveFlash")}catch(f){}}if(b)=
+{a=3Db.GetVariable("$version").split(" ")[1];return a.replace(/,/g,".")}=
+}return"0"}function N(a){var b=3Da.google_ad_format;if(b)return b.indexO=
+f("_0ads")>0;return a.google_ad_output!=3D"html"&&a.google_num_radlinks>=
+0}function O(a){return!!a&&a.indexOf("_sdo")!=3D-1}
+function P(a,b){var c=3DMath.random();if(c<b){b=3DMath.floor(c/b*a.lengt=
+h);return a[b]}return""}
+var qb=3Dfunction(a){a.u_tz=3D-(new Date).getTimezoneOffset();a.u_his=3D=
+window.history.length;a.u_java=3Dnavigator.javaEnabled();if(window.scree=
+n){a.u_h=3Dwindow.screen.height;a.u_w=3Dwindow.screen.width;a.u_ah=3Dwin=
+dow.screen.availHeight;a.u_aw=3Dwindow.screen.availWidth;a.u_cd=3Dwindow=
+.screen.colorDepth}if(navigator.plugins)a.u_nplug=3Dnavigator.plugins.le=
+ngth;if(navigator.mimeTypes)a.u_nmime=3Dnavigator.mimeTypes.length},rb=3D=
+function(a){var b=3DK;if(a&&b.top!=3Db)b=3Db.top;try{return b.document&&=
+!b.document.body?new s(-1,
+-1):Qa(b||window)}catch(c){return new s(-12245933,-12245933)}},sb=3Dfunc=
+tion(a,b){var c=3Da.length;if(c=3D=3D0)return 0;b=3Db||305419896;for(var=
+ d=3D0;d<c;d++){var e=3Da.charCodeAt(d);b^=3D(b<<5)+(b>>2)+e&4294967295}=
+return b},tb=3Dfunction(a){if(a=3D=3Da.top)return 0;var b=3D[];b.push(do=
+cument.URL);a.name&&b.push(a.name);a=3Dg;a=3Drb(!a);b.push(a.width.toStr=
+ing());b.push(a.height.toString());b=3Dsb(b.join(""));return b>0?b:42949=
+67296+b};var ub=3D{google_ad_channel:"channel",google_ad_host:"host",goo=
+gle_ad_host_channel:"h_ch",google_ad_host_tier_id:"ht_id",google_ad_sect=
+ion:"region",google_ad_type:"ad_type",google_adtest:"adtest",google_allo=
+w_expandable_ads:"ea",google_alternate_ad_url:"alternate_ad_url",google_=
+alternate_color:"alt_color",google_bid:"bid",google_city:"gcs",google_co=
+lor_bg:"color_bg",google_color_border:"color_border",google_color_line:"=
+color_line",google_color_link:"color_link",google_color_text:"color_text=
+",google_color_url:"color_url",
+google_contents:"contents",google_country:"gl",google_cust_age:"cust_age=
+",google_cust_ch:"cust_ch",google_cust_gender:"cust_gender",google_cust_=
+id:"cust_id",google_cust_interests:"cust_interests",google_cust_job:"cus=
+t_job",google_cust_l:"cust_l",google_cust_lh:"cust_lh",google_cust_u_url=
+:"cust_u_url",google_disable_video_autoplay:"disable_video_autoplay",goo=
+gle_ed:"ed",google_encoding:"oe",google_feedback:"feedback_link",google_=
+flash_version:"flash",google_font_face:"f",google_font_size:"fs",google_=
+hints:"hints",
+google_kw:"kw",google_kw_type:"kw_type",google_language:"hl",google_page=
+_url:"url",google_region:"gr",google_reuse_colors:"reuse_colors",google_=
+safe:"adsafe",google_tag_info:"gut",google_targeting:"targeting",google_=
+ui_features:"ui",google_ui_version:"uiv",google_video_doc_id:"video_doc_=
+id",google_video_product_type:"video_product_type"},vb=3D{google_ad_clie=
+nt:"client",google_ad_format:"format",google_ad_output:"output",google_a=
+d_callback:"callback",google_ad_height:"h",google_ad_override:"google_ad=
+_override",
+google_ad_slot:"slotname",google_ad_width:"w",google_ctr_threshold:"ctr_=
+t",google_image_size:"image_size",google_last_modified_time:"lmt",google=
+_max_num_ads:"num_ads",google_max_radlink_len:"max_radlink_len",google_n=
+um_radlinks:"num_radlinks",google_num_radlinks_per_unit:"num_radlinks_pe=
+r_unit",google_only_ads_with_video:"only_ads_with_video",google_rl_dest_=
+url:"rl_dest_url",google_rl_filtering:"rl_filtering",google_rl_mode:"rl_=
+mode",google_rt:"rt",google_skip:"skip"},wb=3D{google_only_pyv_ads:"pyv"=
+,
+google_with_pyv_ads:"withpyv"};function xb(a,b){try{return a.top.documen=
+t.URL=3D=3Db.URL}catch(c){}return j}function yb(a,b,c,d){c=3Dc||a.google=
+_ad_width;d=3Dd||a.google_ad_height;if(xb(a,b))return j;var e=3Db.docume=
+ntElement;if(c&&d){var f=3D1,i=3D1;if(a.innerHeight){f=3Da.innerWidth;i=3D=
+a.innerHeight}else if(e&&e.clientHeight){f=3De.clientWidth;i=3De.clientH=
+eight}else if(b.body){f=3Db.body.clientWidth;i=3Db.body.clientHeight}if(=
+i>2*d||f>2*c)return j}return g}function zb(a,b){L(b,function(c,d){a["goo=
+gle_"+d]=3Dc})}
+function Ab(a,b){if(!b)return a.URL;return a.referrer}function Bb(a,b){i=
+f(!b&&a.google_referrer_url=3D=3Dh)return"0";else if(b&&a.google_referre=
+r_url=3D=3Dh)return"1";else if(!b&&a.google_referrer_url!=3Dh)return"2";=
+else if(b&&a.google_referrer_url!=3Dh)return"3";return"4"}function Cb(a,=
+b,c,d){a.page_url=3DAb(c,d);a.page_location=3Dh}function Db(a,b,c,d){a.p=
+age_url=3Db.google_page_url;a.page_location=3DAb(c,d)||"EMPTY"}
+function Eb(a,b){var c=3D{},d=3Dyb(a,b,a.google_ad_width,a.google_ad_hei=
+ght);c.iframing=3DBb(a,d);a.google_page_url?Db(c,a,b,d):Cb(c,a,b,d);c.la=
+st_modified_time=3Db.URL=3D=3Dc.page_url?Date.parse(b.lastModified)/1E3:=
+h;c.referrer_url=3Dd?a.google_referrer_url:a.google_page_url&&a.google_r=
+eferrer_url?a.google_referrer_url:b.referrer;return c}function Fb(a){var=
+ b=3D{},c=3Da.URL.substring(a.URL.lastIndexOf("http"));b.iframing=3Dh;b.=
+page_url=3Dc;b.page_location=3Da.URL;b.last_modified_time=3Dh;b.referrer=
+_url=3Dc;return b}
+function Gb(a,b){b=3DHb(a,b);zb(a,b)}function Hb(a,b){return a=3Da.googl=
+e_page_url=3D=3Dh&&Ib[b.domain]?Fb(b):Eb(a,b)}var Ib=3D{};Ib["ad.yieldma=
+nager.com"]=3Dg;var Jb=3Dfunction(a,b,c){b=3Dfa(b,l,a);a=3Dwindow.onerro=
+r;window.onerror=3Db;try{c()}catch(d){c=3Dd.toString();var e=3D"";if(d.f=
+ileName)e=3Dd.fileName;var f=3D-1;if(d.lineNumber)f=3Dd.lineNumber;b=3Db=
+(c,e,f);if(!b)throw d;}window.onerror=3Da};q("google_protectAndRun",Jb);=
+
+var Lb=3Dfunction(a,b,c,d){if(Math.random()<0.01){var e=3DWa;a=3D["http:=
+//",ib,"/pagead/gen_204","?id=3Djserror","&jscb=3D",Xa?1:0,"&jscd=3D",Ya=
+?1:0,"&context=3D",M(a),"&msg=3D",M(b),"&file=3D",M(c),"&line=3D",M(d.to=
+String()),"&url=3D",M(e.URL.substring(0,512)),"&ref=3D",M(e.referrer.sub=
+string(0,512))];a.push(Kb());lb(K,a.join(""))}return!Za};q("google_handl=
+eError",Lb);
+var Nb=3Dfunction(a){Mb|=3Da},Mb=3D0,Kb=3Dfunction(){var a=3D["&client=3D=
+",M(K.google_ad_client),"&format=3D",M(K.google_ad_format),"&slotname=3D=
+",M(K.google_ad_slot),"&output=3D",M(K.google_ad_output),"&ad_type=3D",M=
+(K.google_ad_type)];return a.join("")};var Q=3D"",Qb=3Dfunction(){if(win=
+dow.google_ad_frameborder=3D=3Dh)window.google_ad_frameborder=3D0;if(win=
+dow.google_ad_output=3D=3Dh)window.google_ad_output=3D"html";if(O(window=
+.google_ad_format)){var a=3Dwindow.google_ad_format.match(/^(\d+)x(\d+)_=
+.*/);if(a){window.google_ad_width=3DparseInt(a[1],10);window.google_ad_h=
+eight=3DparseInt(a[2],10);window.google_ad_output=3D"html"}}window.googl=
+e_ad_format=3DOb(window.google_ad_format,window.google_ad_output,window.=
+google_ad_width,window.google_ad_height,window.google_ad_slot,
+!!window.google_override_format);Q=3Dwindow.google_ad_client||"";window.=
+google_ad_client=3DPb(window.google_ad_format,window.google_ad_client);G=
+b(window,document);if(window.google_num_slots_by_channel=3D=3Dh)window.g=
+oogle_num_slots_by_channel=3D{};if(window.google_viewed_host_channels=3D=
+=3Dh)window.google_viewed_host_channels=3D{};if(window.google_num_slots_=
+by_client=3D=3Dh)window.google_num_slots_by_client=3D{};if(window.google=
+_prev_ad_formats_by_region=3D=3Dh)window.google_prev_ad_formats_by_regio=
+n=3D{};if(window.google_prev_ad_slotnames_by_region=3D=3D
+h)window.google_prev_ad_slotnames_by_region=3D{};if(window.google_correl=
+ator=3D=3Dh)window.google_correlator=3D(new Date).getTime();if(window.go=
+ogle_adslot_loaded=3D=3Dh)window.google_adslot_loaded=3D{};if(window.goo=
+gle_adContentsBySlot=3D=3Dh)window.google_adContentsBySlot=3D{};if(windo=
+w.google_flash_version=3D=3Dh)window.google_flash_version=3Dpb();if(wind=
+ow.google_new_domain_checked=3D=3Dh)window.google_new_domain_checked=3D0=
+;if(window.google_new_domain_enabled=3D=3Dh)window.google_new_domain_ena=
+bled=3D0;if(!window.google_num_ad_slots)window.google_num_ad_slots=3D
+0;if(!window.google_num_0ad_slots)window.google_num_0ad_slots=3D0;if(!wi=
+ndow.google_num_sdo_slots)window.google_num_sdo_slots=3D0;window.google_=
+ad_section=3Dwindow.google_ad_section||window.google_ad_region||"";windo=
+w.google_country=3Dwindow.google_country||window.google_gl||"";a=3D(new =
+Date).getTime();if(o(window.google_color_bg))window.google_color_bg=3DR(=
+window.google_color_bg,a);if(o(window.google_color_text))window.google_c=
+olor_text=3DR(window.google_color_text,a);if(o(window.google_color_link)=
+)window.google_color_link=3D
+R(window.google_color_link,a);if(o(window.google_color_url))window.googl=
+e_color_url=3DR(window.google_color_url,a);if(o(window.google_color_bord=
+er))window.google_color_border=3DR(window.google_color_border,a);if(o(wi=
+ndow.google_color_line))window.google_color_line=3DR(window.google_color=
+_line,a)},Rb=3Dfunction(a){L(ub,function(b,c){a[c]=3Dh});L(vb,function(b=
+,c){a[c]=3Dh});L(wb,function(b,c){a[c]=3Dh});a.google_container_id=3Dh;a=
+.google_eids=3Dh;a.google_page_location=3Dh;a.google_referrer_url=3Dh;a.=
+google_ad_region=3Dh;
+a.google_gl=3Dh},R=3Dfunction(a,b){Nb(2);return a[b%a.length]},Pb=3Dfunc=
+tion(a,b){if(!b)return"";b=3Db.toLowerCase();return b=3DO(a)?Sb(b):Tb(b)=
+},Tb=3Dfunction(a){if(a&&a.substring(0,3)!=3D"ca-")a=3D"ca-"+a;return a}=
+,Sb=3Dfunction(a){if(a&&a.substring(0,7)!=3D"ca-aff-")a=3D"ca-aff-"+a;re=
+turn a},Ob=3Dfunction(a,b,c,d,e,f){if(!a&&b=3D=3D"html")a=3Dc+"x"+d;retu=
+rn a=3DUb(a,e,f)?a.toLowerCase():""},Ub=3Dfunction(a,b,c){if(!a)return j=
+;if(!b)return g;return c};var S=3Ddocument,T=3Dnavigator,U=3Dwindow;
+function Vb(){var a=3DS.cookie,b=3DMath.round((new Date).getTime()/1E3),=
+c=3DU.google_analytics_domain_name;c=3Dtypeof c=3D=3D"undefined"?Wb("aut=
+o"):Wb(c);var d=3Da.indexOf("__utma=3D"+c+".")>-1,e=3Da.indexOf("__utmb=3D=
+"+c)>-1,f=3Da.indexOf("__utmc=3D"+c)>-1,i=3D{},n=3D!!U&&!!U.gaGlobal;if(=
+d){a=3Da.split("__utma=3D"+c+".")[1].split(";")[0].split(".");i.sid=3De&=
+&f?a[3]+"":n&&U.gaGlobal.sid?U.gaGlobal.sid:b+"";i.vid=3Da[0]+"."+a[1];i=
+.from_cookie=3Dg}else{i.sid=3Dn&&U.gaGlobal.sid?U.gaGlobal.sid:b+"";i.vi=
+d=3Dn&&U.gaGlobal.vid?U.gaGlobal.vid:
+(Math.round(Math.random()*2147483647)^Xb()&2147483647)+"."+b;i.from_cook=
+ie=3Dj}i.dh=3Dc;i.hid=3Dn&&U.gaGlobal.hid?U.gaGlobal.hid:Math.round(Math=
+.random()*2147483647);return U.gaGlobal=3Di}
+function Xb(){var a=3DS.cookie?S.cookie:"",b=3DU.history.length,c,d=3D[T=
+.appName,T.version,T.language?T.language:T.browserLanguage,T.platform,T.=
+userAgent,T.javaEnabled()?1:0].join("");if(U.screen)d+=3DU.screen.width+=
+"x"+U.screen.height+U.screen.colorDepth;else if(U.java){c=3Djava.awt.Too=
+lkit.getDefaultToolkit().getScreenSize();d+=3Dc.screen.width+"x"+c.scree=
+n.height}d+=3Da;d+=3DS.referrer?S.referrer:"";for(a=3Dd.length;b>0;)d+=3D=
+b--^a++;return Yb(d)}
+function Yb(a){var b=3D1,c=3D0,d;if(!(a=3D=3Dundefined||a=3D=3D"")){b=3D=
+0;for(d=3Da.length-1;d>=3D0;d--){c=3Da.charCodeAt(d);b=3D(b<<6&268435455=
+)+c+(c<<14);c=3Db&266338304;b=3Dc!=3D0?b^c>>21:b}}return b}function Wb(a=
+){if(!a||a=3D=3D""||a=3D=3D"none")return 1;if("auto"=3D=3Da){a=3DS.domai=
+n;if("www."=3D=3Da.substring(0,4))a=3Da.substring(4,a.length)}return Yb(=
+a.toLowerCase())};var V=3Dfunction(){this.defaultBucket=3D[];this.layers=
+=3D{};for(var a=3D0,b=3Darguments.length;a<b;++a)this.layers[arguments[a=
+]]=3D""},Zb=3Dfunction(a){for(var b=3Dnew V,c=3D0,d=3Da.defaultBucket.le=
+ngth;c<d;++c)b.defaultBucket.push(a.defaultBucket[c]);L(a.layers,fa(V.pr=
+ototype.f,b));return b},$b=3Dfunction(a){if(!(a&&a.defaultBucket&&a.defa=
+ultBucket.push&&a.layers))return j;var b=3Dg,c=3Dfunction(d,e){if(!(e in=
+ a)||typeof d!=3Dtypeof a[e])b=3Dj};L(V.prototype,c);return b};V.prototy=
+pe.f=3Dfunction(a,b){this.layers[b]=3Da};
+V.prototype.z=3Dfunction(a,b){if(a=3D=3D"")return"";if(!b){this.defaultB=
+ucket.push(a);return a}if(this.layers.hasOwnProperty(b))return this.laye=
+rs[b]=3Da;return""};V.prototype.d=3Dfunction(a,b,c){if(!c||this.p(c)){va=
+r d=3DMath.random();if(d<b){b=3DMath.floor(a.length*d/b);if(a=3Da[b])ret=
+urn this.z(a,c)}}return""};V.prototype.p=3Dfunction(a){return this.layer=
+s.hasOwnProperty(a)&&this.layers[a]=3D=3D""};V.prototype.a=3Dfunction(a)=
+{if(this.layers.hasOwnProperty(a))return this.layers[a];return""};
+V.prototype.o=3Dfunction(){var a=3D[],b=3Dfunction(c){c!=3D""&&a.push(c)=
+};L(this.layers,b);if(this.defaultBucket.length>0&&a.length>0)return thi=
+s.defaultBucket.join(",")+","+a.join(",");return this.defaultBucket.join=
+(",")+a.join(",")};var ac=3D{google:1,googlegroups:1,gmail:1,googlemail:=
+1,googleimages:1,googleprint:1};function bc(a){a=3Da.google_page_locatio=
+n||a.google_page_url;if(!a)return j;a=3Da.toString();if(a.indexOf("http:=
+//")=3D=3D0)a=3Da.substring(7,a.length);else if(a.indexOf("https://")=3D=
+=3D0)a=3Da.substring(8,a.length);var b=3Da.indexOf("/");if(b=3D=3D-1)b=3D=
+a.length;a=3Da.substring(0,b);a=3Da.split(".");b=3Dj;if(a.length>=3D3)b=3D=
+a[a.length-3]in ac;if(a.length>=3D2)b=3Db||a[a.length-2]in ac;return b}
+function cc(a,b,c){if(bc(a)){a.google_new_domain_checked=3D1;return j}if=
+(a.google_new_domain_checked=3D=3D0){var d=3DMath.random();if(d<=3Dc){c=3D=
+"http://"+gb+"/pagead/test_domain.js";d=3D"script";b.write("<"+d+' src=3D=
+"'+c+'"></'+d+">");a.google_new_domain_checked=3D1;return g}}return j}va=
+r dc=3Dfunction(a,b){if(!b)return j;if(b.a("1")=3D=3D"44901211")return 0=
+=3D=3Da%2;if(b.a("1")=3D=3D"44901215")return 0=3D=3DMath.floor(a/2)%2;if=
+(b.a("1")=3D=3D"44901216")return 1=3D=3DMath.floor(a/2)%2;return j};
+function ec(a,b,c){if(!bc(a)&&a.google_new_domain_enabled=3D=3D1)return =
+dc(b,c)?"http://"+hb:"http://"+gb;return"http://"+ib};var W=3Dfunction(a=
+){this.A=3Da;this.i=3D[];this.h=3D0;this.b=3D[];this.t=3D0;this.c=3D[];t=
+his.r=3Dj;this.j=3Dthis.k=3D"";this.q=3Dj};W.prototype.v=3Dfunction(a,b)=
+{var c=3Dthis.A[b],d=3Dthis.i;this.A[b]=3Dfunction(e){if(e&&e.length>0){=
+var f=3De.length>1?e[1].url:h;d.push([a,ta(e[0].url),f])}c(e)}};W.protot=
+ype.u=3Dfunction(){this.h++};W.prototype.w=3Dfunction(a){this.b.push(a)}=
+;W.prototype.s=3Dfunction(){if(!this.r){kb("http://"+fb+"/pagead/osd.js"=
+);this.r=3Dg}};
+W.prototype.l=3Dfunction(a){if(this.h>0)for(var b=3Ddocument.getElements=
+ByTagName("iframe"),c=3Dthis.q?"google_ads_iframe_":"google_ads_frame",d=
+=3D0;d<b.length;d++){var e=3Db.item(d);e.src&&e.name&&e.name.indexOf(c)=3D=
+=3D0&&a(e,e.src)}};
+W.prototype.m=3Dfunction(a){var b=3Dthis.i;if(b.length>0)for(var c=3Ddoc=
+ument.getElementsByTagName("a"),d=3D0;d<c.length;d++)for(var e=3D0;e<b.l=
+ength;e++)if(c.item(d).href=3D=3Db[e][1]){var f=3Dc.item(d).parentNode;i=
+f(b[e][2])for(var i=3Df,n=3D0;n<4;n++){if(i.innerHTML.indexOf(b[e][2])>0=
+){f=3Di;break}i=3Di.parentNode}a(f,b[e][0]);b.splice(e,1);break}};W.prot=
+otype.n=3Dfunction(a){for(var b=3D0;b<this.b.length;b++){var c=3Dthis.b[=
+b],d=3Dfc(c);if(d)(d=3Ddocument.getElementById("google_ads_div_"+d))&&a(=
+d,c)}};
+W.prototype.e=3Dfunction(a){this.m(a);this.n(a);this.l(a)};W.prototype.s=
+etupOsd=3Dfunction(a,b,c){this.t=3Da;this.k=3Db;this.j=3Dc};W.prototype.=
+getOsdMode=3Dfunction(){return this.t};W.prototype.getEid=3Dfunction(){r=
+eturn this.k};W.prototype.getCorrelator=3Dfunction(){return this.j};W.pr=
+ototype.g=3Dfunction(){return this.i.length+this.h+this.b.length};W.prot=
+otype.setValidOutputTypes=3Dfunction(a){this.c=3Da};
+W.prototype.registerAdBlockByType=3Dfunction(a,b,c){if(this.c.length>0){=
+for(var d=3D0;d<this.c.length;d++)if(this.c[d]=3D=3Da){this.q=3Dc;if(a=3D=
+=3D"js")this.v(b,"google_ad_request_done");else if(a=3D=3D"html")this.u(=
+);else a=3D=3D"json_html"&&this.w(b)}this.s()}};var fc=3Dfunction(a){if(=
+(a=3Da.match(/[&\?](?:slotname)=3D([^&]+)/))&&a.length=3D=3D2)return a[1=
+];return""},gc=3Dfunction(){window.__google_ad_urls||(window.__google_ad=
+_urls=3Dnew W(window));return window.__google_ad_urls};q("Goog_AdSense_g=
+etAdAdapterInstance",gc);
+q("Goog_AdSense_OsdAdapter",W);q("Goog_AdSense_OsdAdapter.prototype.numB=
+locks",W.prototype.g);q("Goog_AdSense_OsdAdapter.prototype.findBlocks",W=
+.prototype.e);q("Goog_AdSense_OsdAdapter.prototype.getOsdMode",W.prototy=
+pe.getOsdMode);q("Goog_AdSense_OsdAdapter.prototype.getEid",W.prototype.=
+getEid);q("Goog_AdSense_OsdAdapter.prototype.getCorrelator",W.prototype.=
+getCorrelator);q("Goog_AdSense_OsdAdapter.prototype.setValidOutputTypes"=
+,W.prototype.setValidOutputTypes);
+q("Goog_AdSense_OsdAdapter.prototype.setupOsd",W.prototype.setupOsd);q("=
+Goog_AdSense_OsdAdapter.prototype.registerAdBlockByType",W.prototype.reg=
+isterAdBlockByType);var hc=3Dfunction(a,b){var c=3Da.nodeType=3D=3D9?a:a=
+.ownerDocument||a.document;if(c.defaultView&&c.defaultView.getComputedSt=
+yle)if(a=3Dc.defaultView.getComputedStyle(a,""))return a[b];return h},ic=
+=3Dfunction(a,b){return hc(a,b)||(a.currentStyle?a.currentStyle[b]:h)||a=
+.style[b]},jc=3Dfunction(a,b,c,d){if(/^\d+px?$/.test(b))return parseInt(=
+b,10);else{var e=3Da.style[c],f=3Da.runtimeStyle[c];a.runtimeStyle[c]=3D=
+a.currentStyle[c];a.style[c]=3Db;b=3Da.style[d];a.style[c]=3De;a.runtime=
+Style[c]=3Df;return b}},kc=3Dfunction(a){var b=3D
+a.nodeType=3D=3D9?a:a.ownerDocument||a.document,c=3D"";if(b.createTextRa=
+nge){c=3Db.body.createTextRange();c.moveToElementText(a);c=3Dc.queryComm=
+andValue("FontName")}if(!c){c=3Dic(a,"fontFamily");if(B&&Ia)c=3Dc.replac=
+e(/ \[[^\]]*\]/,"")}a=3Dc.split(",");if(a.length>1)c=3Da[0];return ua(c,=
+"\"'")},lc=3D/[^\d]+$/,mc=3Dfunction(a){return(a=3Da.match(lc))&&a[0]||h=
+},nc=3D{cm:1,"in":1,mm:1,pc:1,pt:1},oc=3D{em:1,ex:1},pc=3Dfunction(a){va=
+r b=3Dic(a,"fontSize"),c=3Dmc(b);if(b&&"px"=3D=3Dc)return parseInt(b,10)=
+;if(C)if(c in nc)return jc(a,b,"left",
+"pixelLeft");else if(a.parentNode&&a.parentNode.nodeType=3D=3D1&&c in oc=
+){a=3Da.parentNode;c=3Dic(a,"fontSize");return jc(a,b=3D=3Dc?"1em":b,"le=
+ft","pixelLeft")}c=3DSa("span",{style:"visibility:hidden;position:absolu=
+te;line-height:0;padding:0;margin:0;border:0;height:1em;"});Ua(a,c);b=3D=
+c.offsetHeight;c&&c.parentNode&&c.parentNode.removeChild(c);return b};va=
+r qc,X=3D{};function rc(a){if(a=3D=3D1)return g;return!X[a]}function sc(=
+a,b){if(!(!a||a=3D=3D""))if(b=3D=3D1)if(X[b])X[b]+=3D","+a;else X[b]=3Da=
+;else X[b]=3Da}function tc(){var a=3D[];L(X,function(b){a.push(b)});retu=
+rn a.join(",")}function uc(a,b){if(o(a))for(var c=3D0;c<a.length;c++)p(a=
+[c])&&sc(a[c],b)}var Y=3Dj;
+function vc(a,b){var c=3D"script";Y=3Dwc(a,b);if(!Y)a.google_allow_expan=
+dable_ads=3Dj;var d=3D!xc();Y&&d&&b.write("<"+c+' src=3D"http://'+fb+'/p=
+agead/expansion_embed.js"></'+c+">");a=3Dcc(a,b,I("1",0.01));(d=3Dd||a)&=
+&mb("msie")&&!window.opera?b.write("<"+c+' src=3D"http://'+fb+'/pagead/r=
+ender_ads.js"></'+c+">"):b.write("<"+c+'>google_protectAndRun("ads_core.=
+google_render_ad", google_handleError, google_render_ad);</'+c+">")}func=
+tion Z(a){return a!=3Dh?'"'+a+'"':'""'}
+function yc(a){var b=3D"google_unique_id";if(a[b])++a[b];else a[b]=3D1;r=
+eturn a[b]}var zc=3Dfunction(a,b){var c=3Db.slice(-1),d=3Dc=3D=3D"?"||c=3D=
+=3D"#"?"":"&",e=3D[b];b=3Dfunction(f,i){if(f||f=3D=3D=3D0||f=3D=3D=3Dj){=
+if(typeof f=3D=3D"boolean")f=3Df?1:0;jb(e,d,i,"=3D",M(f));d=3D"&"}};L(a,=
+b);return e.join("")};function Ac(){var a=3DC&&F("6"),b=3DCa&&F("1.8.1")=
+,c=3DD&&F("525");if(Ha&&(a||b||c))return g;else if(Ga&&(c||b))return g;e=
+lse if(Ia&&b)return g;return j}
+function xc(){return(typeof ExpandableAdSlotFactory=3D=3D"function"||typ=
+eof ExpandableAdSlotFactory=3D=3D"object")&&typeof ExpandableAdSlotFacto=
+ry.createIframe=3D=3D"function"}function wc(a,b){if(a.google_allow_expan=
+dable_ads=3D=3D=3Dj||!b.body||a.google_ad_output!=3D"html"||yb(a,b)||!Bc=
+(a)||isNaN(a.google_ad_height)||isNaN(a.google_ad_width)||!Ac())return j=
+;return g}function Bc(a){var b=3Da.google_ad_format;if(O(b))return j;if(=
+N(a)&&b!=3D"468x15_0ads_al")return j;return g}
+function Cc(){var a;if(K.google_ad_output=3D=3D"html"&&!(N(K)||O(K.googl=
+e_ad_format))&&rc(0)){a=3D["6083035","6083034"];a=3DP(a,I("0",0));sc(a,0=
+)}return a=3D=3D"6083035"}
+function Dc(a,b){if((a.google_unique_id||0)!=3D0||O(a.google_ad_format))=
+return"";var c=3D"";a=3DN(a);if(b=3D=3D"html"||a)c=3DP(["36815001","3681=
+5002"],I("0.01",0));if(c=3D=3D""&&(b=3D=3D"js"||a))c=3DP(["36815003","36=
+815004"],I("0.01",0));if(c=3D=3D""&&(b=3D=3D"html"||b=3D=3D"js"))c=3DP([=
+"36813005","36813006"],I("0.008",0));return c}
+function Ec(){var a=3Dgc(),b=3Dwindow.google_enable_osd,c;if(b=3D=3D=3Dg=
+){c=3D"36813006";Fc(c,a)}else if(b!=3D=3Dj&&rc(0)){c=3Da.getEid();if(c=3D=
+=3D"")(c=3DDc(window,window.google_ad_output))&&Fc(c,a);else if(c!=3D"36=
+815001"&&c!=3D"36815002"&&c!=3D"36815003"&&c!=3D"36815004"&&c!=3D"368130=
+05"&&c!=3D"36813006")c=3D""}if(c){sc(c,0);return c}return""}
+function Fc(a,b){var c=3Db.getOsdMode(),d=3D[];switch(a){case "36815004"=
+:c=3D1;d=3D["js"];break;case "36815002":c=3D1;d=3D["html"];break;case "3=
+6813006":c=3D0;d=3D["html","js"];break}d.length>0&&b.setValidOutputTypes=
+(d);b.setupOsd(c,a,window.google_correlator)}
+function Gc(a,b,c,d){var e=3Dyc(a);c=3Dzc({ifi:e},c);c=3Dc.substring(0,1=
+992);c=3Dc.replace(/%\w?$/,"");var f=3D"script";if((a.google_ad_output=3D=
+=3D"js"||a.google_ad_output=3D=3D"json_html")&&(a.google_ad_request_done=
+||a.google_radlink_request_done))b.write("<"+f+' language=3D"JavaScript1=
+.1" src=3D'+Z(k(c))+"></"+f+">");else if(a.google_ad_output=3D=3D"html")=
+if(Y&&xc()){b=3Da.google_container_id||d||h;a["google_expandable_ad_slot=
+"+e]=3DExpandableAdSlotFactory.createIframe("google_ads_frame"+e,k(c),a.=
+google_ad_width,a.google_ad_height,
+b)}else{e=3D'<iframe name=3D"google_ads_frame" width=3D'+Z(a.google_ad_w=
+idth)+" height=3D"+Z(a.google_ad_height)+" frameborder=3D"+Z(a.google_ad=
+_frameborder)+" src=3D"+Z(k(c))+' marginwidth=3D"0" marginheight=3D"0" v=
+space=3D"0" hspace=3D"0" allowtransparency=3D"true" scrolling=3D"no"></i=
+frame>';a.google_container_id?Hc(a.google_container_id,b,e):b.write(e)}r=
+eturn c}function Ic(a){Rb(a)}
+function Jc(a){var b=3DKc().a("ac1")=3D=3D"44901217";if(!Lc(b))return j;=
+b=3DCc();var c=3Dec(window,window.google_unique_id||0,Kc());a=3DMc(a);b=3D=
+c+Nc(a.google_ad_format,b);window.google_ad_url=3Dzc(a,b);return g}
+var Qc=3Dfunction(a){a.dt=3Daa;var b=3Dwindow.google_prev_ad_formats_by_=
+region,c=3Dwindow.google_ad_section,d=3Dwindow.google_ad_format,e=3Dwind=
+ow.google_ad_slot;if(b[c])if(!O(d)){a.prev_fmts=3Db[c];if(window.google_=
+num_slots_by_client.length>1)a.slot=3Dwindow.google_num_slots_by_client[=
+Q]}var f=3Dwindow.google_prev_ad_slotnames_by_region;if(f[c])a.prev_slot=
+names=3Df[c].toLowerCase();if(d){if(!O(d))if(b[c])b[c]+=3D","+d;else b[c=
+]=3Dd}else if(e)if(f[c])f[c]+=3D","+e;else f[c]=3De;a.correlator=3Dwindo=
+w.google_correlator;if(window.google_new_domain_checked=3D=3D
+1&&window.google_new_domain_enabled=3D=3D0)a.dblk=3D1;if(window.google_a=
+d_channel){b=3Dwindow.google_num_slots_by_channel;c=3D"";d=3Dwindow.goog=
+le_ad_channel.split(Oc);for(e=3D0;e<d.length;e++){f=3Dd[e];if(b[f])c+=3D=
+f+"+";else b[f]=3D1}a.pv_ch=3Dc}if(window.google_ad_host_channel){b=3DPc=
+(window.google_ad_host_channel,window.google_viewed_host_channels);a.pv_=
+h_ch=3Db}if(Xa)a.jscb=3D1;if(Ya)a.jscd=3D1;a.frm=3Dwindow.google_iframin=
+g;b=3DVb();a.ga_vid=3Db.vid;a.ga_sid=3Db.sid;a.ga_hid=3Db.hid;a.ga_fc=3D=
+b.from_cookie;a.ga_wpids=3Dwindow.google_analytics_uacct},
+Rc=3Dfunction(a){var b=3Dg;if(b=3Drb(b)){a.biw=3Db.width;a.bih=3Db.heigh=
+t}},Sc=3Dfunction(a){var b=3Dtb(window);if(b!=3D0)a.ifk=3Db.toString()};=
+function Pc(a,b){var c=3Da.split("|");a=3D-1;for(var d=3D[],e=3D0;e<c.le=
+ngth;e++){var f=3Dc[e].split(Oc);b[e]||(b[e]=3D{});for(var i=3D"",n=3D0;=
+n<f.length;n++){var z=3Df[n];if(z!=3D"")if(b[e][z])i+=3D"+"+z;else b[e][=
+z]=3D1}i=3Di.slice(1);d[e]=3Di;if(i!=3D"")a=3De}b=3D"";if(a>-1){for(e=3D=
+0;e<a;e++)b+=3Dd[e]+"|";b+=3Dd[a]}return b}
+var $=3Dfunction(){if(window.google_exp_persistent&&$b(window.google_exp=
+_persistent))return window.google_exp_persistent;return new V("1","ac1")=
+};q("google_exp_persistent",$());var Kc=3Dfunction(){qc||(qc=3DZb($()));=
+return qc};function Tc(){var a=3D["44901211","44901215","44901216","4490=
+1212"];$().d(a,I("0.0001",0),"1");a=3D["44901217","44901218"];$().d(a,I(=
+"0",0),"ac1")}
+function Uc(){0=3D=3D(window.google_unique_id||0)&&Tc();var a=3DEc(),b=3D=
+Math.random()<0.01,c=3Dh,d=3D"";if(b){d=3D"google_temp_span";c=3DVc(d)}b=
+=3DJc(c);c&&c.id=3D=3Dd&&(c&&c.parentNode?c.parentNode.removeChild(c):h)=
+;if(b){c=3DGc(window,document,window.google_ad_url);a&&gc().registerAdBl=
+ockByType(window.google_ad_output,c,j);Ic(window)}}
+var Wc=3Dfunction(a){L(vb,function(b,c){a[b]=3Dwindow[c]});L(ub,function=
+(b,c){a[b]=3Dwindow[c]});L(wb,function(b,c){a[b]=3Dwindow[c]})},Xc=3Dfun=
+ction(a){uc(window.google_eids,1);a.eid=3Dtc();var b=3DKc().o();if(a.eid=
+.length>0&&b.length>0)a.eid+=3D",";a.eid+=3Db};function Yc(a,b,c,d){a=3D=
+Lb(a,b,c,d);vc(window,document);return a}function Zc(){Qb()}
+function $c(a){var b=3D{};a=3Da.split("?");a=3Da[a.length-1].split("&");=
+for(var c=3D0;c<a.length;c++){var d=3Da[c].split("=3D");if(d[0])try{b[d[=
+0].toLowerCase()]=3Dd.length>1?window.decodeURIComponent?decodeURICompon=
+ent(d[1].replace(/\+/g," ")):unescape(d[1]):""}catch(e){}}return b}funct=
+ion ad(){var a=3Dwindow,b=3D$c(document.URL);if(b.google_ad_override){a.=
+google_ad_override=3Db.google_ad_override;a.google_adtest=3D"on"}}
+function Hc(a,b,c){if(a)if((a=3Db.getElementById(a))&&c&&c.length!=3D"")=
+{a.style.visibility=3D"visible";a.innerHTML=3Dc}}
+var Nc=3Dfunction(a,b){return a=3DO(a)?"/pagead/sdo?":b?"/pagead/render_=
+iframe_ads.html#":"/pagead/ads?"},bd=3Dfunction(a,b){b.dff=3Dkc(a);b.dfs=
+=3Dpc(a)},cd=3Dfunction(a){a.ref=3Dwindow.google_referrer_url;a.loc=3Dwi=
+ndow.google_page_location},Lc=3Dfunction(a){var b=3Dwindow.google_prev_a=
+d_formats_by_region,c=3Dwindow.google_prev_ad_slotnames_by_region,d=3Dwi=
+ndow.google_ad_section;if(O(window.google_ad_format)){window.google_num_=
+sdo_slots+=3D1;if(!a&&window.google_num_sdo_slots>4)return j}else if(N(w=
+indow)){window.google_num_0ad_slots+=3D
+1;if(!a&&window.google_num_0ad_slots>3)return j}else{window.google_num_a=
+d_slots+=3D1;if(window.google_num_slots_to_rotate){Nb(1);b[d]=3Dh;c[d]=3D=
+h;if(window.google_num_slot_to_show=3D=3Dh)window.google_num_slot_to_sho=
+w=3D(new Date).getTime()%window.google_num_slots_to_rotate+1;if(window.g=
+oogle_num_slot_to_show!=3Dwindow.google_num_ad_slots)return j}else if(!a=
+&&window.google_num_ad_slots>6&&d=3D=3D"")return j}a=3Dwindow.google_num=
+_slots_by_client;if(a[Q])a[Q]+=3D1;else{a[Q]=3D1;a.length+=3D1}return g}=
+,Mc=3Dfunction(a){var b=3D
+{};Wc(b);Qc(b);qb(b);a&&bd(a,b);Rc(b);Sc(b);Xc(b);cd(b);b.fu=3DMb;return=
+ b},Vc=3Dfunction(a){var b=3Dwindow.google_container_id&&Na(window.googl=
+e_container_id)||Na(a);if(!b&&!window.google_container_id&&a){document.w=
+rite("<span id=3D"+a+"></span>");b=3DNa(a)}return b},Oc=3D/[+, ]/;window=
+.google_render_ad=3DUc;function dd(){if(Za&&typeof K.alternateShowAds=3D=
+=3D"function")K.alternateShowAds.call(h);else{ad();Jb("show_ads.google_i=
+nit_globals",Yc,Zc);vc(window,document)}}Jb("show_ads.main",Lb,dd);})()
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=clear.gif
+Content-Type: image/gif; name=clear.gif
+Content-Location: http://25yearsofprogramming.com/images/clear.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhAQABAPcAAP///wAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC
+AgICAgICAgICAgAAACH5BAEAAP8ALAAAAAABAAEAQAgEAP8FBAA7
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=valid-html401.png
+Content-Type: image/png; name=valid-html401.png
+Content-Location: http://25yearsofprogramming.com/images/valid-html401.png
+Content-Transfer-Encoding: Base64
+
+iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAAB0VBMVEUAAAAMCQQL
+CwsRDQYWEQgbFQoeGAwUFBQcHBwkHQ4sIxExJxM1KhUjIyMoKCg0MzI7OztCNBpH
+OBxNPR5OSz9XRSJbSCRjTydsVitvWCx1RzlyWy1+ZDFOTk5ST0tWUk1VVVVcXFxq
+XUplZWVra2tya2FwcHB7e3sAWpwIX58JYJ8OY6ERZaIVaKQaa6Yebaghb6klcqop
+dawxea82fbE4frI+grRFhrZMi7pVkb1alL9dlsBkm8NoncRtocZ0pcl8qsyWBAOZ
+AACcCASIIBmdNiegDge3PB6mPiqFajWJbTaTdTqWeDyffz+6QiG/TCahclPATifB
+UCjIXy/QbzfWej3Yfj+Rh2ujgkGui0WxjUa0gVi2kUi6lEq/mEyjkmuzn2e7pnLE
+nE7eikXOpFHQplPWq1XarlbesVjjlUrmm03poFDtqVTjtVrmuFzsvF70w2H5xmL+
+y2WDg4OXl5eYmJippZ61rZisrKy0tLS/v7+Crs6FsNCLtNKQt9SWu9aYvNebvtif
+wdqjw9uox92ryd6yzeG20OPCwsLMzMzU1NTA1ufG2ujN3+zT4+7d6fL/7Mbn5+fs
+7Ozl7vXp8fbu9Pj09PTy9/r1+Pv+/v7MzMx5jUMsAAAAm3RSTlP/////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+AJVWkpgAAAABYktHRACIBR1IAAAACXBIWXMAAABIAAAASABGyWs+AAADJ0lEQVRI
+x+2W+08TQRDHp1ogQBGkgqmIgmKYSisvEUuAQusLKajxxUVEgQYqsdzdShSChGAD
+8kYpbW79a529bY+WyCMN+pPf5Ob22uzntt+dmS2snbo+/xKCNX68frCTa/Tdtf/g
+3MBaOMJYNKzpYVPTbIIu+jSsMVWMcgaHwcmYC5QImHKxfHAw1gcQZgNw+RBwrNFP
+sxeaFgQk4XY3kpp8nCc/1a3zOSMLrI+MOGBgZJLAMMbyjgbvoJeI37FNgJdRqocb
+1QBn1kvXU+CiUOg8KDS1HCYo5tsdlQo4jwTzFtyi6ME9ih3oi8eX0Jvks3Cuvqzg
+zG4KbCoTPADFTtfRYD/OU2zFGEUv7nCjWQyry8iF6/WWx7rmygLrdnh7DHgDb3O+
+h0i+bmIL2W26UiC+MpLZm5cBZv2VTIIrFGUsAxwIWFnRQC58Q2zgvAf9fO8mbtLW
+lfwpK0zwJMU8u8AI8JDwyLEPvhcQZAn20U/3YStukN0bvBPd3Qnau0ywHlEZUyMa
+TZ2O6BSjUYFRaaxFSFYqj94PCKXAMfQZDbeW0R9HD73Gi9hq8JmcKu9RQEqCE+hZ
+wa6Eu2UJO8TzpgeX+Wou4Ccpbrry2siHFd6OMjM478LOw3uFrh3PTYO/IroNygbE
+hPm8gs0HwQpARNy1SgCnyqrsUG69afCjHDyzuGnwFuJdUYJ4R6KWsXFXjpJJCVbz
+bBKsQFUf9LNQyALrDwMPpvbX2xvIbEKNuGiW4AJf7DCtaF+V5LpVCa50VkjwRVCZ
+yD3VAgte8EN6vb2XsrpbF8bNEtymZPMnYh6MGbU/Bdcme4VydjoFLgSqDhtZkga/
+NHnBcckNPs1umyutIm40UYZ40Y2iFNcKampLYEZ6XOQMOaBPM+tDY7bijBXrgwFL
+weCbA/3YmDdvPXRtd3u9nWIP12sKSmdTm1doE/U1+djF+mE4LLrDvhXWnhF4Koej
+qQKizAEsSk3YPkELJw2lyM8tbi5nXnhYo4uWqgyp4olkFfKLNPfUD9NXKe7pn9Lj
+QZP7F47/qal/9r9i7lh9eX9yvb6RBlefQBdOrqtXSk3wb5pxjmKbvWqoAAAAAElF
+TkSuQmCC
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=valid-css.gif
+Content-Type: image/gif; name=valid-css.gif
+Content-Location: http://25yearsofprogramming.com/images/valid-css.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhWAAfAMYAAP///3OUxwxHnTZkrlR8ut/m8u7u7kxMTK6urp2dnb6+vrHD
+4KG32ZKr0ywsLAAAAH19fRwcHO7y+CFVpsHP5o2NjQwMDBdNomSIwQtEnY6n0s7O
+zl1dXdDb7CZZqIOfzUVwtDw8PGx6kW1tbczMzP/MZmOlxgBmmRh7rUqUvefv90pK
+Sr29xpmZmbXW54S11jMzM4SEhCMcDg8MBlqcvWZmZu+/X4ltNjwwGG1XK9+yWa+M
+Rkw8HsCZTM+lUltIJCwjEQwJBJx8PjGMtTk5ORwWC8OcTuu8XpkAAGYzAPTDYZUA
+AMyZM7mUSuG0Wt6xWHtzZiggEABmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBm
+mQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBm
+mQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBmmQBm
+mQBmmQBmmQBmmQBmmSH+ClZhbGlkIENTUyEAIfkEAQAAfwAsAAAAAFgAHwAAB/6A
+JIKDhIWGh4iJiouMhX+PjyQAk5SVlpeYmSWbnJ2en6ChoEdGK5CRmamqqaKtrq8l
+pKankqu2trC5urGlp3+1t8GYu8Stsr7AwsqTxc2fx7TL0gDO1ZvQkLUBAgOUBAIE
+lQUC5OXkkwYHBwgACQqU1tXYqAAL5AWTDOeUDebl3QYcPBgIIQIEePGazftFiRyD
+SRLILfAmYAIFCtsEUABQ4YGFAxEGJkCYkNhCYN/CTbogAEPDDBoASGCp0oGFDZM4
+RKhUsthJSvouTOpAzsMkewIkAPhwb9KDCpQMvCNp4waOqzl0cNrB4yqPHpx8/PC6
+Q9cxJNkojRMwkSm5Dv4AMHADsPYDpQcGWJWwAWRg3wdBtPYYGATHQLA6ggA2/EBI
+LlJJkEimN2mAgAAALLNsAMCDAM7fBHjYCMCBqk03APvYa/hHidRBylp1nPrBjRI7
+cDiGdeSG5N8MKTH1EPEyN6IC4IIwtzHE6RI8HuQAtWMg4R82SviwPpDHali+f/9O
+hpzpgLqiK1FgCYLj8x/SOfW44djHjRw4inQvoePG2L9AwCKEeMAlAwBLLNllGTku
+VSJXUjjpJQRg9fU1nWHTQfcADq89wMMmOQD2yoAEohUcJQ8mB0BGbFmij0arcAIf
+d0BkVx13D5Tlg2LcZfjabp2QSGBalSAlFADICf5wyYsiXCIVSbjh9wOQ2lmFww1g
+bdJfVzmUtQmJQijBiZDiRVNJcQ0eCM6KHuATFzkJjFQJByNA2ROZSIiJJxJLIHPJ
+NxNNItdDyw1AgVvtRQAVAOk8cBAzPW3CRIlI7InELERW0o9S+QiATwEsmQMXAg9E
+EMJAptlZkqUlNoEpZWqpBFE3R4XmQaAAIBDSAxzkpeqqlIrnRC9mWuKmWpZIAFcw
+kXoyabBK/DSNMs06S6mY0k7LbLWdPPubmLy8eqK2uHDbyRPfcpItuTGae+4N4F5D
+bKbsPueuKD+xoO++/Pbr77//GiHwwAQXbPDBCB8cAxTikrDCwxBHLPHEFA1XbPHF
+GGf8MBFR+BIIACH5BAEKAH8ALAEAAQAkABwAAAf+gACCg4SFhoeIiYqLjI2Oj5CR
+kpOUiAECA4MEAgSEBQKgoaCCBgcHCAAJCoULoAWCDKODDaKhmQYOD7oQERCGoAyC
+EqALmgITFBSXAhQAFQ8WBxG6CYabnYIXAhiDAhkaABLa2A4WG4IcEYexF4IdoB6C
+rQISAB+ugg8Vgwarhp8Cit0D1QEABkwAAH4Y9MBAowECAgCAqK0BAA8CLG4S4KEZ
+AAeO7nkYFhHTOwEFQYhqFsLRyXsDFHIkREEbCGePtGlbCBEUN0IH6Z1zFBQlgGUB
+C8ViBmleOwAnBRhaKsJQP0QkfwIYd9TDK4OgElQjxGFEok3FBB0MpnIAhYE8NyPs
+A1DqgS9EtOrBEvCqgDZRBRE8iBBCF8hEBbAJyyRvo4e0ABBMe8DBoaKvgzALK1ip
+s+fPoEOLDh0IADs=
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline
+Content-Type: image/gif
+Content-Location: http://us.i1.yimg.com/us.yimg.com/i/us/sch/gr/horiz_pwrlogo_red2.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhrQAPALMAAPeaq9XU1P////bI0fqvv+vr6//o6vP19fzc4cS6u/709v7v
+8fLx8ff3997d3eLj4yH5BAAAAAAALAAAAACtAA8AAAT/UMhJq70408W5+ZwmjmRJ
+EANSrmzrvgQgz/Pz3tmCfMZSzQmccNgKUIyZQyARkyUcBYZAt+N9SgYaYFBSIJo0
+gmEyQxLPaItZsM40wFIJQjuLSxQnrbSQkAVsEgYDgwNjEwtgCQFLMyoCMwUWDFET
+BZaWdgIFDRSXmRKYEg2REpNpakclbzIEnQNAi5wUCK9OAXELAEFyYDMEjk0JD7IC
+B7VSTgcVSwmKEs3QZg7OoNDNpAzWAQ3TE0uLZosS4eNIRubh4t7q5he5Mlx3MYoN
+BmADxPMVWQAStYoPLDmQUWCOrk8SYnBxUiFbgAIOkCjyNAGaLD4B+exqBmWJgG7j
+/6idG8em5EiT7UyS9EYypQWDAFTwS0BKQC0A2ybE+EVrUBMBCpJVmIPCD4Z579po
+rClgoqVKNKnxIeVxGtOPNC01a8dVJbiTbMCVHLvyZBsKN2sFUKaTCQC2CenQEGDw
+qgB+tQBVCKqLn11mT55ZoxrEoyZFEZuxSfBpmjWRY7uSJbvGZeRyIm7iJEYXZ5Z4
+cRE7CPhAxl2CLwnuVGBBLV+4FBo8uNY0gIPbnLIpoq0RmhSrFabddiwWc8t1YMOi
+q6xuZQ4gnAU0aVJz5z7TjwC02qBv1ZYeBr444YTgLBtOGJs6WKZokeKpTXdpRG8E
+5GLzpzDgp8AP51BdtykknbQW8YAhhkEo0BIMKQ1oBgt5hUyBgCO9NcPJY0ZQg5VW
+kfCBxGzWMGDfN/mVsN8E/ZmxQC3xZEFAg48xZpM2xQzQByxXHRAROMNM8EoCCghy
+hQCy4SbBcLdF4YAd3GzigCwPrAdKRIBAVImUJZ4Bkxm9HOCFQgswcMCYY07QAJnE
+HFDAAwExEN0I9hgx4Q5Z1mnnPnnQ4YCOlzQAE2p3WnDmXRMGamiWC8QYzQWXWALb
+oZCyEAEAOw==
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=icrawhite.gif
+Content-Type: image/gif; name=icrawhite.gif
+Content-Location: http://25yearsofprogramming.com/images/icrawhite.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhWAAfAPcAAAAAABAQECEhISFSnCkpKSlanClapTExMTFjpTljrUJCQkJr
+rUpKSkpzrVJztVJ7tVp7tVqEtWNjY2OEvWtra2uEvWuMvXNzc3OMvXOUxnuUxnuc
+xoSEhISczoyMjIylzpSUlJStzpycnKWlpaW11qW91rW1tbXG3r3G573O3sbGxsbO
+58bW587Ozs7W59bW1tbe797n7+fn5+fn9+/v7+/v9/f3////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+/////////////////ywAAAAAWAAfAAAI/gBFqBhIsKDBgwgTKlzIsGHCEQJlSJxI
+saLFixgzatzI0WILDhFt2KAhkuTIkihPqjTJMmXLlS5jwpz5sqUMEyBVyLBxo6fP
+nz1JICgwgQbQo0iTKl3KNOnNnDuZnigwoKqDplizal36AmdIphaoGhhQIMbWs2ib
+Pv26FMOAsVVnpJ1L12dXqDyXsqhKdULdv2nX6sy79MSDBRpqAF6s9S7brDY0ZJCM
+QXJinzJEcNjMwQTQFxwUKGDg4QWNFpk5q36x1ERUpIJf30iRoXKGyRgm19bwAANW
+AgAAiPgpgwGAAypuyBghAIAKnsABgDDhIcBxGUkFcFDqePDWEB+w/ioInrynDOAM
+gMoQUH68854mgktAqgJAAOywvXrvWQFCBAj+AajBTzDEsAILLBx4oAtAufdcT8YB
+IFtPAvHkYF7BAYDUAcGNkFR3slElFlkDLHBCCieSMEEKK7DoIgoNktdTC8ER8GFP
+DvqU4VEvNAeAAE7pJ1sKKJyIAopHnnAkChb41tSFN1wQ3AVMQRkfAPMBJYEK1r13
+VGyEsUBkCmOmwKBPJZxZpYw3uLfdUu6BoAIH1h2AH2YS2MBBcAcgBSJhDYwoVgM/
+2fBBBxsgqmh4P0Hp5ppY+pjeURwkJ0OGEyonJGEfLODppws0MAEEE0ywgJOQlieB
+fKnWF5xn/sQRoIIJKriX5U9/fsdoqjxdaSOc5NlAQXABGOWTCBJwJqV9d5q36U8f
+ACgtBAP6BAMNMcwQQ7YxKBajlzdElylrOMp4Hp+N9pQXhwC8adezPrkgYlUlnmDv
+CSREQEIJ++4r17cP3vBCnZ8p4BOUL2QIAoVU/iRCcEASB2+891Z8LwYWqNWlu8qt
+SoBAJkggAX4ydEmBT3sGJ8J6DDR7JQAnYzYxgTDUbJZPJKgZ5Kw8fzbCZiKQqynP
+tPpEK9ED4fcC0kLnelQKCVS1AFAnfPBBCN4yprXEeCVlQwhDYYzxBG9p8O/WaAs8
+c9psbwVm23BvBaJEL8hQ99125433Qt569833334HDvjggQvWggmIJ6744ow37vjj
+kEcuOeMg/aza5ZhnrvnmnHfuuecXUCDa6KSXbvrpqKeu+uqsqx4QAAA7
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=urchin.js
+Content-Type: text/javascript; name=urchin.js
+Content-Location: http://www.google-analytics.com/urchin.js
+Content-Transfer-Encoding: 8bit
+
+//-- Google Analytics Urchin Module
+//-- Copyright 2007 Google, All Rights Reserved.
+
+//-- Urchin On Demand Settings ONLY
+var _uacct="";			// set up the Urchin Account
+var _userv=1;			// service mode (0=local,1=remote,2=both)
+
+//-- UTM User Settings
+var _ufsc=1;			// set client info flag (1=on|0=off)
+var _udn="auto";		// (auto|none|domain) set the domain name for cookies
+var _uhash="on";		// (on|off) unique domain hash for cookies
+var _utimeout="1800";   	// set the inactive session timeout in seconds
+var _ugifpath="/__utm.gif";	// set the web path to the __utm.gif file
+var _utsp="|";			// transaction field separator
+var _uflash=1;			// set flash version detect option (1=on|0=off)
+var _utitle=1;			// set the document title detect option (1=on|0=off)
+var _ulink=0;			// enable linker functionality (1=on|0=off)
+var _uanchor=0;			// enable use of anchors for campaign (1=on|0=off)
+var _utcp="/";			// the cookie path for tracking
+var _usample=100;		// The sampling % of visitors to track (1-100).
+
+//-- UTM Campaign Tracking Settings
+var _uctm=1;			// set campaign tracking module (1=on|0=off)
+var _ucto="15768000";		// set timeout in seconds (6 month default)
+var _uccn="utm_campaign";	// name
+var _ucmd="utm_medium";		// medium (cpc|cpm|link|email|organic)
+var _ucsr="utm_source";		// source
+var _uctr="utm_term";		// term/keyword
+var _ucct="utm_content";	// content
+var _ucid="utm_id";		// id number
+var _ucno="utm_nooverride";	// don't override
+
+//-- Auto/Organic Sources and Keywords
+var _uOsr=new Array();
+var _uOkw=new Array();
+_uOsr[0]="google";	_uOkw[0]="q";
+_uOsr[1]="yahoo";	_uOkw[1]="p";
+_uOsr[2]="msn";		_uOkw[2]="q";
+_uOsr[3]="aol";		_uOkw[3]="query";
+_uOsr[4]="aol";		_uOkw[4]="encquery";
+_uOsr[5]="lycos";	_uOkw[5]="query";
+_uOsr[6]="ask";		_uOkw[6]="q";
+_uOsr[7]="altavista";	_uOkw[7]="q";
+_uOsr[8]="netscape";	_uOkw[8]="query";
+_uOsr[9]="cnn";	_uOkw[9]="query";
+_uOsr[10]="looksmart";	_uOkw[10]="qt";
+_uOsr[11]="about";	_uOkw[11]="terms";
+_uOsr[12]="mamma";	_uOkw[12]="query";
+_uOsr[13]="alltheweb";	_uOkw[13]="q";
+_uOsr[14]="gigablast";	_uOkw[14]="q";
+_uOsr[15]="voila";	_uOkw[15]="rdata";
+_uOsr[16]="virgilio";	_uOkw[16]="qs";
+_uOsr[17]="live";	_uOkw[17]="q";
+_uOsr[18]="baidu";	_uOkw[18]="wd";
+_uOsr[19]="alice";	_uOkw[19]="qs";
+_uOsr[20]="yandex";	_uOkw[20]="text";
+_uOsr[21]="najdi";	_uOkw[21]="q";
+_uOsr[22]="aol";	_uOkw[22]="q";
+_uOsr[23]="club-internet"; _uOkw[23]="query";
+_uOsr[24]="mama";	_uOkw[24]="query";
+_uOsr[25]="seznam";	_uOkw[25]="q";
+_uOsr[26]="search";	_uOkw[26]="q";
+_uOsr[27]="wp";	_uOkw[27]="szukaj";
+_uOsr[28]="onet";	_uOkw[28]="qt";
+_uOsr[29]="netsprint";	_uOkw[29]="q";
+_uOsr[30]="google.interia";	_uOkw[30]="q";
+_uOsr[31]="szukacz";	_uOkw[31]="q";
+_uOsr[32]="yam";	_uOkw[32]="k";
+_uOsr[33]="pchome";	_uOkw[33]="q";
+_uOsr[34]="kvasir";	_uOkw[34]="searchExpr";
+_uOsr[35]="sesam";	_uOkw[35]="q";
+_uOsr[36]="ozu"; _uOkw[36]="q";
+_uOsr[37]="terra"; _uOkw[37]="query";
+_uOsr[38]="nostrum"; _uOkw[38]="query";
+_uOsr[39]="mynet"; _uOkw[39]="q";
+_uOsr[40]="ekolay"; _uOkw[40]="q";
+_uOsr[41]="search.ilse"; _uOkw[41]="search_for";
+_uOsr[42]="bing"; _uOkw[42]="q";
+
+//-- Auto/Organic Keywords to Ignore
+var _uOno=new Array();
+//_uOno[0]="urchin";
+//_uOno[1]="urchin.com";
+//_uOno[2]="www.urchin.com";
+
+//-- Referral domains to Ignore
+var _uRno=new Array();
+//_uRno[0]=".urchin.com";
+
+//-- **** Don't modify below this point ***
+var _uff,_udh,_udt,_ubl=0,_udo="",_uu,_ufns=0,_uns=0,_ur="-",_ufno=0,_ust=0,_ubd=document,_udl=_ubd.location,_udlh="",_uwv="1.3";
+var _ugifpath2="http://www.google-analytics.com/__utm.gif";
+if (_udl.hash) _udlh=_udl.href.substring(_udl.href.indexOf('#'));
+if (_udl.protocol=="https:") _ugifpath2="https://ssl.google-analytics.com/__utm.gif";
+if (!_utcp || _utcp=="") _utcp="/";
+function urchinTracker(page) {
+ if (_udl.protocol=="file:") return;
+ if (_uff && (!page || page=="")) return;
+ var a,b,c,xx,v,z,k,x="",s="",f=0,nv=0;
+ var nx=" expires="+_uNx()+";";
+ var dc=_ubd.cookie;
+ _udh=_uDomain();
+ if (!_uVG()) return;
+ _uu=Math.round(Math.random()*2147483647);
+ _udt=new Date();
+ _ust=Math.round(_udt.getTime()/1000);
+ a=dc.indexOf("__utma="+_udh+".");
+ b=dc.indexOf("__utmb="+_udh);
+ c=dc.indexOf("__utmc="+_udh);
+ if (_udn && _udn!="") { _udo=" domain="+_udn+";"; }
+ if (_utimeout && _utimeout!="") {
+  x=new Date(_udt.getTime()+(_utimeout*1000));
+  x=" expires="+x.toGMTString()+";";
+ }
+ if (_ulink) {
+  if (_uanchor && _udlh && _udlh!="") s=_udlh+"&";
+  s+=_udl.search;
+  if(s && s!="" && s.indexOf("__utma=")>=0) {
+   if (!(_uIN(a=_uGC(s,"__utma=","&")))) a="-";
+   if (!(_uIN(b=_uGC(s,"__utmb=","&")))) b="-";
+   if (!(_uIN(c=_uGC(s,"__utmc=","&")))) c="-";
+   v=_uGC(s,"__utmv=","&");
+   z=_uGC(s,"__utmz=","&");
+   k=_uGC(s,"__utmk=","&");
+   xx=_uGC(s,"__utmx=","&");
+   if ((k*1) != ((_uHash(a+b+c+xx+z+v)*1)+(_udh*1))) {_ubl=1;a="-";b="-";c="-";xx="-";z="-";v="-";}
+   if (a!="-" && b!="-" && c!="-") f=1;
+   else if(a!="-") f=2;
+  }
+ }
+ if(f==1) {
+  _ubd.cookie="__utma="+a+"; path="+_utcp+";"+nx+_udo;
+  _ubd.cookie="__utmb="+b+"; path="+_utcp+";"+x+_udo;
+  _ubd.cookie="__utmc="+c+"; path="+_utcp+";"+_udo;
+ } else if (f==2) {
+  a=_uFixA(s,"&",_ust);
+  _ubd.cookie="__utma="+a+"; path="+_utcp+";"+nx+_udo;
+  _ubd.cookie="__utmb="+_udh+"; path="+_utcp+";"+x+_udo;
+  _ubd.cookie="__utmc="+_udh+"; path="+_utcp+";"+_udo;
+  _ufns=1;
+ } else if (a>=0 && b>=0 && c>=0) {
+   b = _uGC(dc,"__utmb="+_udh,";");
+   b = ("-" == b) ? _udh : b;  
+  _ubd.cookie="__utmb="+b+"; path="+_utcp+";"+x+_udo;
+ } else {
+  if (a>=0) a=_uFixA(_ubd.cookie,";",_ust);
+  else {
+   a=_udh+"."+_uu+"."+_ust+"."+_ust+"."+_ust+".1";
+   nv=1;
+  }
+  _ubd.cookie="__utma="+a+"; path="+_utcp+";"+nx+_udo;
+  _ubd.cookie="__utmb="+_udh+"; path="+_utcp+";"+x+_udo;
+  _ubd.cookie="__utmc="+_udh+"; path="+_utcp+";"+_udo;
+  _ufns=1;
+ }
+ if (_ulink && xx && xx!="" && xx!="-") {
+   xx=_uUES(xx);
+   if (xx.indexOf(";")==-1) _ubd.cookie="__utmx="+xx+"; path="+_utcp+";"+nx+_udo;
+ }
+ if (_ulink && v && v!="" && v!="-") {
+  v=_uUES(v);
+  if (v.indexOf(";")==-1) _ubd.cookie="__utmv="+v+"; path="+_utcp+";"+nx+_udo;
+ }
+ var wc=window;
+ var c=_ubd.cookie;
+ if(wc && wc.gaGlobal && wc.gaGlobal.dh==_udh){
+  var g=wc.gaGlobal;
+  var ua=c.split("__utma="+_udh+".")[1].split(";")[0].split(".");
+  if(g.sid)ua[3]=g.sid;
+  if(nv>0){
+   ua[2]=ua[3];
+   if(g.vid){
+    var v=g.vid.split(".");
+    ua[0]=v[0];
+    ua[1]=v[1];
+   }
+  }
+  _ubd.cookie="__utma="+_udh+"."+ua.join(".")+"; path="+_utcp+";"+nx+_udo;
+ }
+ _uInfo(page);
+ _ufns=0;
+ _ufno=0;
+ if (!page || page=="") _uff=1;
+}
+function _uGH() {
+ var hid;
+ var wc=window;
+ if (wc && wc.gaGlobal && wc.gaGlobal.hid) {
+  hid=wc.gaGlobal.hid;
+ } else {
+  hid=Math.round(Math.random()*0x7fffffff);
+  if (!wc.gaGlobal) wc.gaGlobal={};
+  wc.gaGlobal.hid=hid;
+ }
+ return hid;
+}
+function _uInfo(page) {
+ var p,s="",dm="",pg=_udl.pathname+_udl.search;
+ if (page && page!="") pg=_uES(page,1);
+ _ur=_ubd.referrer;
+ if (!_ur || _ur=="") { _ur="-"; }
+ else {
+  dm=_ubd.domain;
+  if(_utcp && _utcp!="/") dm+=_utcp;
+  p=_ur.indexOf(dm);
+  if ((p>=0) && (p<=8)) { _ur="0"; }
+  if (_ur.indexOf("[")==0 && _ur.lastIndexOf("]")==(_ur.length-1)) { _ur="-"; }
+ }
+ s+="&utmn="+_uu;
+ if (_ufsc) s+=_uBInfo();
+ if (_uctm) s+=_uCInfo();
+ if (_utitle && _ubd.title && _ubd.title!="") s+="&utmdt="+_uES(_ubd.title);
+ if (_udl.hostname && _udl.hostname!="") s+="&utmhn="+_uES(_udl.hostname);
+ if (_usample && _usample != 100) s+="&utmsp="+_uES(_usample);
+ s+="&utmhid="+_uGH();
+ s+="&utmr="+_ur;
+ s+="&utmp="+pg;
+ if ((_userv==0 || _userv==2) && _uSP()) {
+  var i=new Image(1,1);
+  i.src=_ugifpath+"?"+"utmwv="+_uwv+s;
+  i.onload=function() { _uVoid(); }
+ }
+ if ((_userv==1 || _userv==2) && _uSP()) {
+  var i2=new Image(1,1);
+  i2.src=_ugifpath2+"?"+"utmwv="+_uwv+s+"&utmac="+_uacct+"&utmcc="+_uGCS();
+  i2.onload=function() { _uVoid(); }
+ }
+ return;
+}
+function _uVoid() { return; }
+function _uCInfo() {
+ if (!_ucto || _ucto=="") { _ucto="15768000"; }
+ if (!_uVG()) return;
+ var c="",t="-",t2="-",t3="-",o=0,cs=0,cn=0,i=0,z="-",s="";
+ if (_uanchor && _udlh && _udlh!="") s=_udlh+"&";
+ s+=_udl.search;
+ var x=new Date(_udt.getTime()+(_ucto*1000));
+ var dc=_ubd.cookie;
+ x=" expires="+x.toGMTString()+";";
+ if (_ulink && !_ubl) {
+  z=_uUES(_uGC(s,"__utmz=","&"));
+  if (z!="-" && z.indexOf(";")==-1) { _ubd.cookie="__utmz="+z+"; path="+_utcp+";"+x+_udo; return ""; }
+ }
+ z=dc.indexOf("__utmz="+_udh+".");
+ if (z>-1) { z=_uGC(dc,"__utmz="+_udh+".",";"); }
+ else { z="-"; }
+ t=_uGC(s,_ucid+"=","&");
+ t2=_uGC(s,_ucsr+"=","&");
+ t3=_uGC(s,"gclid=","&");
+ if ((t!="-" && t!="") || (t2!="-" && t2!="") || (t3!="-" && t3!="")) {
+  if (t!="-" && t!="") c+="utmcid="+_uEC(t);
+  if (t2!="-" && t2!="") { if (c != "") c+="|"; c+="utmcsr="+_uEC(t2); }
+  if (t3!="-" && t3!="") { if (c != "") c+="|"; c+="utmgclid="+_uEC(t3); }
+  t=_uGC(s,_uccn+"=","&");
+  if (t!="-" && t!="") c+="|utmccn="+_uEC(t);
+  else c+="|utmccn=(not+set)";
+  t=_uGC(s,_ucmd+"=","&");
+  if (t!="-" && t!="") c+="|utmcmd="+_uEC(t);
+  else  c+="|utmcmd=(not+set)";
+  t=_uGC(s,_uctr+"=","&");
+  if (t!="-" && t!="") c+="|utmctr="+_uEC(t);
+  else { t=_uOrg(1); if (t!="-" && t!="") c+="|utmctr="+_uEC(t); }
+  t=_uGC(s,_ucct+"=","&");
+  if (t!="-" && t!="") c+="|utmcct="+_uEC(t);
+  t=_uGC(s,_ucno+"=","&");
+  if (t=="1") o=1;
+  if (z!="-" && o==1) return "";
+ }
+ if (c=="-" || c=="") { c=_uOrg(); if (z!="-" && _ufno==1)  return ""; }
+ if (c=="-" || c=="") { if (_ufns==1)  c=_uRef(); if (z!="-" && _ufno==1)  return ""; }
+ if (c=="-" || c=="") {
+  if (z=="-" && _ufns==1) { c="utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)"; }
+  if (c=="-" || c=="") return "";
+ }
+ if (z!="-") {
+  i=z.indexOf(".");
+  if (i>-1) i=z.indexOf(".",i+1);
+  if (i>-1) i=z.indexOf(".",i+1);
+  if (i>-1) i=z.indexOf(".",i+1);
+  t=z.substring(i+1,z.length);
+  if (t.toLowerCase()==c.toLowerCase()) cs=1;
+  t=z.substring(0,i);
+  if ((i=t.lastIndexOf(".")) > -1) {
+   t=t.substring(i+1,t.length);
+   cn=(t*1);
+  }
+ }
+ if (cs==0 || _ufns==1) {
+  t=_uGC(dc,"__utma="+_udh+".",";");
+  if ((i=t.lastIndexOf(".")) > 9) {
+   _uns=t.substring(i+1,t.length);
+   _uns=(_uns*1);
+  }
+  cn++;
+  if (_uns==0) _uns=1;
+  _ubd.cookie="__utmz="+_udh+"."+_ust+"."+_uns+"."+cn+"."+c+"; path="+_utcp+"; "+x+_udo;
+ }
+ if (cs==0 || _ufns==1) return "&utmcn=1";
+ else return "&utmcr=1";
+}
+function _uRef() {
+ if (_ur=="0" || _ur=="" || _ur=="-") return "";
+ var i=0,h,k,n;
+ if ((i=_ur.indexOf("://"))<0 || _uGCse()) return "";
+ h=_ur.substring(i+3,_ur.length);
+ if (h.indexOf("/") > -1) {
+  k=h.substring(h.indexOf("/"),h.length);
+  if (k.indexOf("?") > -1) k=k.substring(0,k.indexOf("?"));
+  h=h.substring(0,h.indexOf("/"));
+ }
+ h=h.toLowerCase();
+ n=h;
+ if ((i=n.indexOf(":")) > -1) n=n.substring(0,i);
+ for (var ii=0;ii<_uRno.length;ii++) {
+  if ((i=n.indexOf(_uRno[ii].toLowerCase())) > -1 && n.length==(i+_uRno[ii].length)) { _ufno=1; break; }
+ }
+ if (h.indexOf("www.")==0) h=h.substring(4,h.length);
+ return "utmccn=(referral)|utmcsr="+_uEC(h)+"|"+"utmcct="+_uEC(k)+"|utmcmd=referral";
+}
+function _uOrg(t) {
+ if (_ur=="0" || _ur=="" || _ur=="-") return "";
+ var i=0,h,k;
+ if ((i=_ur.indexOf("://"))<0 || _uGCse()) return "";
+ h=_ur.substring(i+3,_ur.length);
+ if (h.indexOf("/") > -1) {
+  h=h.substring(0,h.indexOf("/"));
+ }
+ for (var ii=0;ii<_uOsr.length;ii++) {
+  if (h.toLowerCase().indexOf(_uOsr[ii].toLowerCase()) > -1) {
+   if ((i=_ur.indexOf("?"+_uOkw[ii]+"=")) > -1 || (i=_ur.indexOf("&"+_uOkw[ii]+"=")) > -1) {
+    k=_ur.substring(i+_uOkw[ii].length+2,_ur.length);
+    if ((i=k.indexOf("&")) > -1) k=k.substring(0,i);
+    for (var yy=0;yy<_uOno.length;yy++) {
+     if (_uOno[yy].toLowerCase()==k.toLowerCase()) { _ufno=1; break; }
+    }
+    if (t) return _uEC(k);
+    else return "utmccn=(organic)|utmcsr="+_uEC(_uOsr[ii])+"|"+"utmctr="+_uEC(k)+"|utmcmd=organic";
+   }
+  }
+ }
+ return "";
+}
+function _uGCse() {
+ var h,p;
+ h=p=_ur.split("://")[1];
+ if(h.indexOf("/")>-1) {
+  h=h.split("/")[0];
+  p=p.substring(p.indexOf("/")+1,p.length);
+ }
+ if(p.indexOf("?")>-1) {
+  p=p.split("?")[0];
+ }
+ if(h.toLowerCase().indexOf("google")>-1) {
+  if(_ur.indexOf("?q=")>-1 || _ur.indexOf("&q=")>-1) {
+   if (p.toLowerCase().indexOf("cse")>-1) {
+    return true;
+   }
+  }
+ }
+}
+function _uBInfo() {
+ var sr="-",sc="-",ul="-",fl="-",cs="-",je=1;
+ var n=navigator;
+ if (self.screen) {
+  sr=screen.width+"x"+screen.height;
+  sc=screen.colorDepth+"-bit";
+ } else if (self.java) {
+  var j=java.awt.Toolkit.getDefaultToolkit();
+  var s=j.getScreenSize();
+  sr=s.width+"x"+s.height;
+ }
+ if (n.language) { ul=n.language.toLowerCase(); }
+ else if (n.browserLanguage) { ul=n.browserLanguage.toLowerCase(); }
+ je=n.javaEnabled()?1:0;
+ if (_uflash) fl=_uFlash();
+ if (_ubd.characterSet) cs=_uES(_ubd.characterSet);
+ else if (_ubd.charset) cs=_uES(_ubd.charset);
+ return "&utmcs="+cs+"&utmsr="+sr+"&utmsc="+sc+"&utmul="+ul+"&utmje="+je+"&utmfl="+fl;
+}
+function __utmSetTrans() {
+ var e;
+ if (_ubd.getElementById) e=_ubd.getElementById("utmtrans");
+ else if (_ubd.utmform && _ubd.utmform.utmtrans) e=_ubd.utmform.utmtrans;
+ if (!e) return;
+ var l=e.value.split("UTM:");
+ var i,i2,c;
+ if (_userv==0 || _userv==2) i=new Array();
+ if (_userv==1 || _userv==2) { i2=new Array(); c=_uGCS(); }
+
+ for (var ii=0;ii<l.length;ii++) {
+  l[ii]=_uTrim(l[ii]);
+  if (l[ii].charAt(0)!='T' && l[ii].charAt(0)!='I') continue;
+  var r=Math.round(Math.random()*2147483647);
+  if (!_utsp || _utsp=="") _utsp="|";
+  var f=l[ii].split(_utsp),s="";
+  if (f[0].charAt(0)=='T') {
+   s="&utmt=tran"+"&utmn="+r;
+   f[1]=_uTrim(f[1]); if(f[1]&&f[1]!="") s+="&utmtid="+_uES(f[1]);
+   f[2]=_uTrim(f[2]); if(f[2]&&f[2]!="") s+="&utmtst="+_uES(f[2]);
+   f[3]=_uTrim(f[3]); if(f[3]&&f[3]!="") s+="&utmtto="+_uES(f[3]);
+   f[4]=_uTrim(f[4]); if(f[4]&&f[4]!="") s+="&utmttx="+_uES(f[4]);
+   f[5]=_uTrim(f[5]); if(f[5]&&f[5]!="") s+="&utmtsp="+_uES(f[5]);
+   f[6]=_uTrim(f[6]); if(f[6]&&f[6]!="") s+="&utmtci="+_uES(f[6]);
+   f[7]=_uTrim(f[7]); if(f[7]&&f[7]!="") s+="&utmtrg="+_uES(f[7]);
+   f[8]=_uTrim(f[8]); if(f[8]&&f[8]!="") s+="&utmtco="+_uES(f[8]);
+  } else {
+   s="&utmt=item"+"&utmn="+r;
+   f[1]=_uTrim(f[1]); if(f[1]&&f[1]!="") s+="&utmtid="+_uES(f[1]);
+   f[2]=_uTrim(f[2]); if(f[2]&&f[2]!="") s+="&utmipc="+_uES(f[2]);
+   f[3]=_uTrim(f[3]); if(f[3]&&f[3]!="") s+="&utmipn="+_uES(f[3]);
+   f[4]=_uTrim(f[4]); if(f[4]&&f[4]!="") s+="&utmiva="+_uES(f[4]);
+   f[5]=_uTrim(f[5]); if(f[5]&&f[5]!="") s+="&utmipr="+_uES(f[5]);
+   f[6]=_uTrim(f[6]); if(f[6]&&f[6]!="") s+="&utmiqt="+_uES(f[6]);
+  }
+  if (_udl.hostname && _udl.hostname!="") s+="&utmhn="+_uES(_udl.hostname);
+  if (_usample && _usample != 100) s+="&utmsp="+_uES(_usample);
+
+  if ((_userv==0 || _userv==2) && _uSP()) {
+   i[ii]=new Image(1,1);
+   i[ii].src=_ugifpath+"?"+"utmwv="+_uwv+s;
+   i[ii].onload=function() { _uVoid(); }
+  }
+  if ((_userv==1 || _userv==2) && _uSP()) {
+   i2[ii]=new Image(1,1);
+   i2[ii].src=_ugifpath2+"?"+"utmwv="+_uwv+s+"&utmac="+_uacct+"&utmcc="+c;
+   i2[ii].onload=function() { _uVoid(); }
+  }
+ }
+ return;
+}
+function _uFlash() {
+ var f="-",n=navigator;
+ if (n.plugins && n.plugins.length) {
+  for (var ii=0;ii<n.plugins.length;ii++) {
+   if (n.plugins[ii].name.indexOf('Shockwave Flash')!=-1) {
+    f=n.plugins[ii].description.split('Shockwave Flash ')[1];
+    break;
+   }
+  }
+ } else {
+  var fl;
+  try {
+   fl = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+   f = fl.GetVariable("$version");
+  } catch(e) {}
+  if (f == "-") {
+   try {
+    fl = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+    f = "WIN 6,0,21,0";
+    fl.AllowScriptAccess = "always";
+    f = fl.GetVariable("$version");
+   } catch(e) {}
+  }
+  if (f == "-") {
+   try {
+    fl = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+    f = fl.GetVariable("$version");
+   } catch(e) {}
+  }
+  if (f != "-") {
+   f = f.split(" ")[1].split(",");
+   f = f[0] + "." + f[1] + " r" + f[2];
+  }
+ }
+ return f;
+}
+function __utmLinkerUrl(l,h) {
+ var p,k,a="-",b="-",c="-",x="-",z="-",v="-";
+ var dc=_ubd.cookie;
+ var iq = l.indexOf("?");
+ var ih = l.indexOf("#");
+ var url=l;
+ if (dc) {
+  a=_uES(_uGC(dc,"__utma="+_udh+".",";"));
+  b=_uES(_uGC(dc,"__utmb="+_udh,";"));
+  c=_uES(_uGC(dc,"__utmc="+_udh,";"));
+  x=_uES(_uGC(dc,"__utmx="+_udh,";"));
+  z=_uES(_uGC(dc,"__utmz="+_udh+".",";"));
+  v=_uES(_uGC(dc,"__utmv="+_udh+".",";"));
+  k=(_uHash(a+b+c+x+z+v)*1)+(_udh*1);
+  p="__utma="+a+"&__utmb="+b+"&__utmc="+c+"&__utmx="+x+"&__utmz="+z+"&__utmv="+v+"&__utmk="+k;
+ }
+ if (p) {
+  if (h && ih>-1) return;
+  if (h) { url=l+"#"+p; }
+  else {
+   if (iq==-1 && ih==-1) url=l+"?"+p;
+   else if (ih==-1) url=l+"&"+p;
+   else if (iq==-1) url=l.substring(0,ih-1)+"?"+p+l.substring(ih);
+   else url=l.substring(0,ih-1)+"&"+p+l.substring(ih);
+  }
+ }
+ return url;
+}
+function __utmLinker(l,h) {
+ if (!_ulink || !l || l=="") return;
+ _udl.href=__utmLinkerUrl(l,h);
+}
+function __utmLinkPost(f,h) {
+ if (!_ulink || !f || !f.action) return;
+ f.action=__utmLinkerUrl(f.action, h);
+ return;
+}
+function __utmSetVar(v) {
+ if (!v || v=="") return;
+ if (!_udo || _udo == "") {
+  _udh=_uDomain();
+  if (_udn && _udn!="") { _udo=" domain="+_udn+";"; }
+ }
+ if (!_uVG()) return;
+ var r=Math.round(Math.random() * 2147483647);
+ _ubd.cookie="__utmv="+_udh+"."+_uES(v)+"; path="+_utcp+"; expires="+_uNx()+";"+_udo;
+ var s="&utmt=var&utmn="+r;
+ if (_usample && _usample != 100) s+="&utmsp="+_uES(_usample);
+ if ((_userv==0 || _userv==2) && _uSP()) {
+  var i=new Image(1,1);
+  i.src=_ugifpath+"?"+"utmwv="+_uwv+s;
+  i.onload=function() { _uVoid(); }
+ }
+ if ((_userv==1 || _userv==2) && _uSP()) {
+  var i2=new Image(1,1);
+  i2.src=_ugifpath2+"?"+"utmwv="+_uwv+s+"&utmac="+_uacct+"&utmcc="+_uGCS();
+  i2.onload=function() { _uVoid(); }
+ }
+}
+function _uGCS() {
+ var t,c="",dc=_ubd.cookie;
+ if ((t=_uGC(dc,"__utma="+_udh+".",";"))!="-") c+=_uES("__utma="+t+";+");
+ if ((t=_uGC(dc,"__utmx="+_udh,";"))!="-") c+=_uES("__utmx="+t+";+");
+ if ((t=_uGC(dc,"__utmz="+_udh+".",";"))!="-") c+=_uES("__utmz="+t+";+");
+ if ((t=_uGC(dc,"__utmv="+_udh+".",";"))!="-") c+=_uES("__utmv="+t+";");
+ if (c.charAt(c.length-1)=="+") c=c.substring(0,c.length-1);
+ return c;
+}
+function _uGC(l,n,s) {
+ if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
+ var i,i2,i3,c="-";
+ i=l.indexOf(n);
+ i3=n.indexOf("=")+1;
+ if (i > -1) {
+  i2=l.indexOf(s,i); if (i2 < 0) { i2=l.length; }
+  c=l.substring((i+i3),i2);
+ }
+ return c;
+}
+function _uDomain() {
+ if (!_udn || _udn=="" || _udn=="none") { _udn=""; return 1; }
+ if (_udn=="auto") {
+  var d=_ubd.domain;
+  if (d.substring(0,4)=="www.") {
+   d=d.substring(4,d.length);
+  }
+  _udn=d;
+ }
+ _udn = _udn.toLowerCase(); 
+ if (_uhash=="off") return 1;
+ return _uHash(_udn);
+}
+function _uHash(d) {
+ if (!d || d=="") return 1;
+ var h=0,g=0;
+ for (var i=d.length-1;i>=0;i--) {
+  var c=parseInt(d.charCodeAt(i));
+  h=((h << 6) & 0xfffffff) + c + (c << 14);
+  if ((g=h & 0xfe00000)!=0) h=(h ^ (g >> 21));
+ }
+ return h;
+}
+function _uFixA(c,s,t) {
+ if (!c || c=="" || !s || s=="" || !t || t=="") return "-";
+ var a=_uGC(c,"__utma="+_udh+".",s);
+ var lt=0,i=0;
+ if ((i=a.lastIndexOf(".")) > 9) {
+  _uns=a.substring(i+1,a.length);
+  _uns=(_uns*1)+1;
+  a=a.substring(0,i);
+  if ((i=a.lastIndexOf(".")) > 7) {
+   lt=a.substring(i+1,a.length);
+   a=a.substring(0,i);
+  }
+  if ((i=a.lastIndexOf(".")) > 5) {
+   a=a.substring(0,i);
+  }
+  a+="."+lt+"."+t+"."+_uns;
+ }
+ return a;
+}
+function _uTrim(s) {
+  if (!s || s=="") return "";
+  while ((s.charAt(0)==' ') || (s.charAt(0)=='\n') || (s.charAt(0,1)=='\r')) s=s.substring(1,s.length);
+  while ((s.charAt(s.length-1)==' ') || (s.charAt(s.length-1)=='\n') || (s.charAt(s.length-1)=='\r')) s=s.substring(0,s.length-1);
+  return s;
+}
+function _uEC(s) {
+  var n="";
+  if (!s || s=="") return "";
+  for (var i=0;i<s.length;i++) {if (s.charAt(i)==" ") n+="+"; else n+=s.charAt(i);}
+  return n;
+}
+function __utmVisitorCode(f) {
+ var r=0,t=0,i=0,i2=0,m=31;
+ var a=_uGC(_ubd.cookie,"__utma="+_udh+".",";");
+ if ((i=a.indexOf(".",0))<0) return;
+ if ((i2=a.indexOf(".",i+1))>0) r=a.substring(i+1,i2); else return "";  
+ if ((i=a.indexOf(".",i2+1))>0) t=a.substring(i2+1,i); else return "";  
+ if (f) {
+  return r;
+ } else {
+  var c=new Array('A','B','C','D','E','F','G','H','J','K','L','M','N','P','R','S','T','U','V','W','X','Y','Z','1','2','3','4','5','6','7','8','9');
+  return c[r>>28&m]+c[r>>23&m]+c[r>>18&m]+c[r>>13&m]+"-"+c[r>>8&m]+c[r>>3&m]+c[((r&7)<<2)+(t>>30&3)]+c[t>>25&m]+c[t>>20&m]+"-"+c[t>>15&m]+c[t>>10&m]+c[t>>5&m]+c[t&m];
+ }
+}
+function _uIN(n) {
+ if (!n) return false;
+ for (var i=0;i<n.length;i++) {
+  var c=n.charAt(i);
+  if ((c<"0" || c>"9") && (c!=".")) return false;
+ }
+ return true;
+}
+function _uES(s,u) {
+ if (typeof(encodeURIComponent) == 'function') {
+  if (u) return encodeURI(s);
+  else return encodeURIComponent(s);
+ } else {
+  return escape(s);
+ }
+}
+function _uUES(s) {
+ if (typeof(decodeURIComponent) == 'function') {
+  return decodeURIComponent(s);
+ } else {
+  return unescape(s);
+ }
+}
+function _uVG() {
+ if((_udn.indexOf("www.google.") == 0 || _udn.indexOf(".google.") == 0 || _udn.indexOf("google.") == 0) && _utcp=='/' && _udn.indexOf("google.org")==-1) {
+  return false;
+ }
+ return true;
+}
+function _uSP() {
+ var s=100;
+ if (_usample) s=_usample;
+ if(s>=100 || s<=0) return true;
+ return ((__utmVisitorCode(1)%10000)<(s*100));
+}
+function urchinPathCopy(p){
+ var d=document,nx,tx,sx,i,c,cs,t,h,o;
+ cs=new Array("a","b","c","v","x","z");
+ h=_uDomain(); if (_udn && _udn!="") o=" domain="+_udn+";";
+ nx=_uNx()+";";
+ tx=new Date(); tx.setTime(tx.getTime()+(_utimeout*1000));
+ tx=tx.toGMTString()+";";
+ sx=new Date(); sx.setTime(sx.getTime()+(_ucto*1000));
+ sx=sx.toGMTString()+";";
+ for (i=0;i<6;i++){
+  t=" expires=";
+  if (i==1) t+=tx; else if (i==2) t=""; else if (i==5) t+=sx; else t+=nx;
+  c=_uGC(d.cookie,"__utm"+cs[i]+"="+h,";");
+  if (c!="-") d.cookie="__utm"+cs[i]+"="+c+"; path="+p+";"+t+o;
+ }
+}
+function _uCO() {
+ if (!_utk || _utk=="" || _utk.length<10) return;
+ var d='www.google.com';
+ if (_utk.charAt(0)=='!') d='analytics.corp.google.com';
+ _ubd.cookie="GASO="+_utk+"; path="+_utcp+";"+_udo;
+ var sc=document.createElement('script');
+ sc.type='text/javascript';
+ sc.id="_gasojs";
+ sc.src='https://'+d+'/analytics/reporting/overlay_js?gaso='+_utk+'&'+Math.random();
+ document.getElementsByTagName('head')[0].appendChild(sc);  
+}
+function _uGT() {
+ var h=location.hash, a;
+ if (h && h!="" && h.indexOf("#gaso=")==0) {
+  a=_uGC(h,"gaso=","&");
+ } else {
+  a=_uGC(_ubd.cookie,"GASO=",";");
+ }
+ return a;
+}
+var _utk=_uGT();
+if (_utk && _utk!="" && _utk.length>10 && _utk.indexOf("=")==-1) {
+ if (window.addEventListener) {
+  window.addEventListener('load', _uCO, false); 
+ } else if (window.attachEvent) { 
+  window.attachEvent('onload', _uCO);
+ }
+}
+
+function _uNx() {
+  return (new Date((new Date()).getTime()+63072000000)).toGMTString();
+}
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=cm.htm
+Content-Type: text/html; charset=iso-8859-1; name=cm.htm
+Content-Location: http://rcm.amazon.com/e/cm?lt1=_top&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=25yearsofprog-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=B001E0RZ3U
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html> <head> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> <style type="text/css"> body {     margin:0px;     padding:0px; } a, a:visited {     color:#0000FF; } a img {     border:none; } div#content {     background-color:#FFFFFF;     color:#000000;     border:1px solid #000000;     margin:0px;     padding:0px;     width:118px;     height:238px;     text-align:center;     font-family:'Arial', sans-serif;     font-size:10px;     position:relative;     overflow:hidden; } div#image {     height:110px;     margin:2px 0px;     padding-top:7px; } p {     margin:3px 0px; } p#prices {     white-space:nowrap; } form {     margin:3px 0px; } p#privacy {     position:absolute;     margin:0px auto;     left:0px;     bottom:0px;     width:118px;     background-color:#FFFFFF; } p#privacy a, p#privacy a:visited {     color:#a1a1a1; } span.price {     color:#990000; } </style> </head> <body> <div id="content"> <div id="image"> <a href="http://www.amazon.com/dp/B001E0RZ3U?tag=25yearsofprog-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=B001E0RZ3U&adid=1P0MN3XD9S2QAMHX9VFD&" target="_top"><img src="http://rcm-images.amazon.com/images/I/41gmlYfxhQL._SL110_.jpg" /></a> </div> <p id="title"> <a href="http://www.amazon.com/dp/B001E0RZ3U?tag=25yearsofprog-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=B001E0RZ3U&adid=1P0MN3XD9S2QAMHX9VFD&" target="_top">Norton Internet Security 2009 [OLD V...</a> </p> <p>Symantec</p>  <p id="prices">   <a href="http://www.amazon.com/gp/offer-listing/B001E0RZ3U?tag=25yearsofprog-20&camp=14573&creative=327641&linkCode=am1&creativeASIN=B001E0RZ3U&adid=1P0MN3XD9S2QAMHX9VFD&" target="_top">Best Price <span class="price" style="text-decoration:underline;">$21.95</span></a> <br /> or    Buy New <span class="price">$36.99</span> </p>   <form method="get" action="http://www.amazon.com/gp/aws/cart/add.html" target="_top"> <input type="hidden" name="SessionId" value="185-1773245-5558323" />  <input type="hidden" name="SubscriptionId" value="D68HUNXKLHS4J" /> <input type="hidden" name="AssociateTag" value="25yearsofprog-20" /> <input type="hidden" name="ASIN.1" value="B001E0RZ3U" /> <input type="hidden" name="Quantity.1" value="1" /> <input type="hidden" name="adid" value="1P0MN3XD9S2QAMHX9VFD"> <input type="hidden" name="linkCode" value="as1" /> <input type="hidden" name="OfferListingId.1" value="5xxkflUOMmY4ezlbYtn8MvlPk2%2BG%2BL6TrI%2Fl5sLsokRJcV3bBGTBcFbFAGR9PtMfEEU9CjUMGVGh0e5QGk65C2f3ZtLrI%2F8lKdQilAVK54IV3EEhkdZeI0V7j%2BgIC%2BPP" /> <input type="image"  name="submit.add" value="Buy from Amazon.com" alt="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/buttons/buy-from-tan.gif" /> </form>   <p id="privacy"><a href="http://rcm.amazon.com/e/cm/privacy-policy.html?o=1" target="_top">Privacy Information</a></p> </div> </body> </html> 
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=41gmlYfxhQL._SL110_.jpg
+Content-Type: image/jpeg; name=41gmlYfxhQL._SL110_.jpg
+Content-Location: http://rcm-images.amazon.com/images/I/41gmlYfxhQL._SL110_.jpg
+Content-Transfer-Encoding: Base64
+
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8L
+CwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUF
+BQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4e
+Hh4eHh4eHh4eHh4eHh7/wAARCABuAG4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEA
+AAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
+MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6
+Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZ
+mqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx
+8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
+YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+anN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPE
+xcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7
+LoNFI3SgD5I+Ov7Q/jzwx8QtT8NaMujWVnaXTW6TtbNLMcJGxLAtt/5acY9DVn9n
+r4r+MfFMnie58R+ImnhsRAyO8EcCRAiQueO3yjkntU/xj+HvhG+8f6pqerWd9ezX
+N0XEIuGCByigkLkAZCDJ9h6UvhHw14ci+GGvroWlpo8WqWLpIzglsGOQBmwTkDJP
+Havhc+zyNShUoUuaLbtzLS2uttb9Ge1hMGk1OST6nq9t4o1G4Qvb6oJlB2koVYA9
+ccfUVKniXVmGVvtwBI4CnkcHtXhdn4N1GxkNtp3jSCKKT7T5arcOrJujbaCAcZAK
+Ek8jyxjqasHwdrcMpi0/xbBZ2hnnkXZqEpd1ld3XIzjJ81MnJ/1YI5c4+JlTxMX7
+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
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=buy-from-tan.gif
+Content-Type: image/gif; name=buy-from-tan.gif
+Content-Location: http://rcm-images.amazon.com/images/G/01/buttons/buy-from-tan.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhWgAcAMQaAO/vzQICZw0NC////z4+NaitcMzMmW9vX/f25K+vlpSUf97e
+vjs7lMHApdHRsunpyPepV/5+DfuSLu+5dPHrxu/gsvXFgsfH3vLUnvPs2f///wAA
+AAAAAAAAAAAAAAAAACH5BAEAABoALAAAAABaABwAAAX/oCaOZGmeaKqubDsyTCDP
+dG3feK7vPHwyl4FwSCwaj8ikcsnMGA6MEnCAqFqv2Kx2y+16v4hFQREVTRGAtHrN
+brvf8Lh8nhZDzUI1QSAgLOiAgYKCBmR4A3oHCwKKCQALCZB/DQ6DlpdwBgUBh4mL
+CgkCAKEAAgqljpiqqpqcGgx5aXt8kKKkBwcNoqu8lq2dsgcABAekpAqMwmwJs44E
+ewTIBA4PB3zC0sTVfc4Hzw1p3gTg4gkN4greCucAv6+xw8LPoQvIaXynbPN9D9d8
+e7lMWWvQQMEeBcgMCljEiNEoPwYNQoomwAGyBswcgHMHC5Gsfw0WPdtlzU09a34c
+/6oUlsCbAEcO+gwThSwUgVI3caVpQCzYTZ6PCDxI4y4AvDaQ1nhzA5Dfyn4Bib18
+sOfPHgAJVeZUFi+YMKAL/BDdJMKox6Bc2VhLxcZpRUZQ+yGsaG0uN2sOBmrF+hPX
+TQfRft4M+6cdWQ1m1Qx8Q+kNtD26DsRlpKtPMmLPYl4rJYwRQswKwqpjBgCsWMOu
+OqbJO24BRkfpKkE6Vy9fvUgOKjROUIn3qNDUHEwY/sdiKnOjCDq4vRrUI3CuATxo
+MBQ1MGSMbKaT6iCUy7ptLEyoMKfCcAkUemU6rDrczVCVTMW7dbNneAkSLFRIv4ZC
+BQsQQACgeuulBs9SpKAyn5ooS9nXRgUQRCChBAFCIMGEE1BgAQYEvsHRge/tIp8p
+9HUFBwUYWChhBBJMgAF//HXYxodnIbhLNrUA0GBaMnbI0QVoxBFdj0SuVwYMQAZZ
+5JJ0LKDJHWYwUIABVFZp5ZVYZqnlllx26SWVBUD5gpQFlGnmmWimqeaabLbp5pth
+liFFDDzUaeedeN7ggwt89unnn4AGKuiggoYAADs=
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=cm.htm
+Content-Type: text/html; charset=iso-8859-1; name=cm.htm
+Content-Location: http://rcm.amazon.com/e/cm?lt1=_top&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=25yearsofprog-20&o=1&p=8&l=as1&m=amazon&f=ifr&asins=B0018EI3I8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html> <head> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> <style type="text/css"> body {     margin:0px;     padding:0px; } a, a:visited {     color:#0000FF; } a img {     border:none; } div#content {     background-color:#FFFFFF;     color:#000000;     border:1px solid #000000;     margin:0px;     padding:0px;     width:118px;     height:238px;     text-align:center;     font-family:'Arial', sans-serif;     font-size:10px;     position:relative;     overflow:hidden; } div#image {     height:110px;     margin:2px 0px;     padding-top:7px; } p {     margin:3px 0px; } p#prices {     white-space:nowrap; } form {     margin:3px 0px; } p#privacy {     position:absolute;     margin:0px auto;     left:0px;     bottom:0px;     width:118px;     background-color:#FFFFFF; } p#privacy a, p#privacy a:visited {     color:#a1a1a1; } span.price {     color:#990000; } </style> </head> <body> <div id="content"> <div id="image"> <a href="http://www.amazon.com/dp/B0018EI3I8?tag=25yearsofprog-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=B0018EI3I8&adid=184Q4W6W0TR33DF2ACQ8&" target="_top"><img src="http://rcm-images.amazon.com/images/I/51oKpM8STqL._SL110_.jpg" /></a> </div> <p id="title"> <a href="http://www.amazon.com/dp/B0018EI3I8?tag=25yearsofprog-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=B0018EI3I8&adid=184Q4W6W0TR33DF2ACQ8&" target="_top">Kaspersky Internet Security 2009</a> </p> <p>Kaspersky Lab</p>  <p id="prices">   <a href="http://www.amazon.com/gp/offer-listing/B0018EI3I8?tag=25yearsofprog-20&camp=14573&creative=327641&linkCode=am1&creativeASIN=B0018EI3I8&adid=184Q4W6W0TR33DF2ACQ8&" target="_top">Best Price <span class="price" style="text-decoration:underline;">$20.22</span></a> <br /> or    Buy New <span class="price">$39.00</span> </p>   <form method="get" action="http://www.amazon.com/gp/aws/cart/add.html" target="_top"> <input type="hidden" name="SessionId" value="185-1773245-5558323" />  <input type="hidden" name="SubscriptionId" value="D68HUNXKLHS4J" /> <input type="hidden" name="AssociateTag" value="25yearsofprog-20" /> <input type="hidden" name="ASIN.1" value="B0018EI3I8" /> <input type="hidden" name="Quantity.1" value="1" /> <input type="hidden" name="adid" value="184Q4W6W0TR33DF2ACQ8"> <input type="hidden" name="linkCode" value="as1" /> <input type="hidden" name="OfferListingId.1" value="iS87Dq1uzMW4U%2FjvnDlxnLFbekvpPm7sZNuC9Ip8bYrrnZmn8%2FUetApNpqSCFg%2FKk4R4ONtumVIZmPENkr1ABk9lDe57jIslrNzEE%2B%2BJRTVtaJd7LYwncBl9JmJ1ecxxBIM9ttzF96A%3D" /> <input type="image"  name="submit.add" value="Buy from Amazon.com" alt="Buy from Amazon.com" src="http://rcm-images.amazon.com/images/G/01/buttons/buy-from-tan.gif" /> </form>   <p id="privacy"><a href="http://rcm.amazon.com/e/cm/privacy-policy.html?o=1" target="_top">Privacy Information</a></p> </div> </body> </html> 
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=51oKpM8STqL._SL110_.jpg
+Content-Type: image/jpeg; name=51oKpM8STqL._SL110_.jpg
+Content-Location: http://rcm-images.amazon.com/images/I/51oKpM8STqL._SL110_.jpg
+Content-Transfer-Encoding: Base64
+
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8L
+CwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUF
+BQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4e
+Hh4eHh4eHh4eHh4eHh7/wAARCABuAFEDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEA
+AAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
+MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6
+Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZ
+mqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx
+8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
+YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+anN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPE
+xcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6
+j8SfEDwd4cnmh1rXILSSAgSqUdthIBAO0HHBBrkL79oX4WW2dmuy3OP+eNq5z+YF
+cP4k8a+GdH+NPifT9YvVtpBcQ581DsOYI+/41j/FfSfAus6HLqmk2WlTybCxntdu
+c9ssnX8a0UV1OSpUqSbVKSv2/p/odnfftQ/D2HItrXV7kj/pgEz+ZrCvv2sNCXIs
+/CuoSHsZJ0UVjeAvAfhM+EE1D/hGLe/vWI+aSJ5x75XditVz4X0xpW/svw9oq7yY
+2kt7SBwueAcsSTjFDlBbJsUaGKlG86sY/J/5GZN+1TrV0xTSvBEUp7Zndj+SrVaT
+48/GG9507wXBAD0MllKw/MkVNqHj7w7bKkc3i21VABuEE4JHqB5aEen51jah8YvD
+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
+AAOgoopFBRRRQB//2Q==
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=cm.htm
+Content-Type: text/html; charset=iso-8859-1; name=cm.htm
+Content-Location: http://rcm.amazon.com/e/cm?t=25yearsofprog-20&o=1&p=20&l=qs1&f=ifr
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html>   <head> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />     <style type="text/css">       body       {         margin:0px;         padding:0px;         font-family:'Verdana', sans-serif;         font-size:10px;       }       a img       {         border:none;       }       div#outer       {         /* 1px border means content area must be            2px smaller than total size */         width:118px;         height:88px;         border:1px solid #000000;         background-color:#ffffff;         margin:0px;         padding:0px;         position:relative;       }       div#logo       {         position:absolute;         bottom:0px;         background-color:#000000;         width:118px;         height:36px;         padding:0px 0px;         border:none;         text-align:center;         overflow:hidden;       }       div#logo a       {         color:#ffffff;         position:relative;         left:-3px;       }       form       {         margin:0px;         padding:0px 5px;         white-space:nowrap;       }       form p       {         margin:5px 0px;         font-weight:bold;       }       form input#keyword       {         width:77px;         position:absolute;         top:0px;         left:0px;       }       form input#button       {         position:absolute;         top:0px;         right:0px;       }     </style>   </head>   <body>     <div id="outer">       <form action="http://www.amazon.com/gp/associates/link-types/searchbox.html" method="get" name="search" target="_top">         <input type="hidden" name="tag" value="25yearsofprog-20" />         <input type="hidden" name="creative" value="374001" />         <input type="hidden" name="campaign" value="211041" />         <input type="hidden" name="adid" value="155XDQZ9JSTC8FQDM773" />         <input type="hidden" name="mode" value="blended" />         <p>Search Amazon:</p>         <div style="position:relative; width:108px;">           <input id="keyword" name="keyword" type="text" size="8" />           <input id="button" type="image" value="Go" name="Submit" src="http://rcm-images.amazon.com/images/G/01/associates/build-links/ap-search-go-btn.gif" alt="[Go]" />         </div>       </form>       <div id="logo"><a href="http://www.amazon.com/?&tag=25yearsofprog-20&camp=211041&creative=374001&linkCode=qs1&adid=155XDQZ9JSTC8FQDM773&" target="_top"><img src="http://rcm-images.amazon.com/images/G/01/associates/build-links/searchbox-logo-126x32.gif" height="36" width="126" alt="Amazon Logo" /></a></div>     </div>   </body> </html> 
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=ap-search-go-btn.gif
+Content-Type: image/gif; name=ap-search-go-btn.gif
+Content-Location: http://rcm-images.amazon.com/images/G/01/associates/build-links/ap-search-go-btn.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhFQAVALMJAP779vPNluuwV86FGOacK+OUG++9cvnmyuijPP///wAAAAAA
+AAAAAAAAAAAAAAAAACH5BAEAAAkALAAAAAAVABUAAASaMMkZajDYzL2tEQhBIKQg
+cFJlIEXrtuLZXcRru3Ji0HdPyJVar4fQBQTDpGDHKhwAgEMBAQU0AYUBYld7Ig0F
+aBgbHgwKmFb0BQgUAmTsOR1GigFgQzw7MKmlcGFugWF8Jl1YAlh3ZC1nhy1PYlRQ
+V2Y/IUk3ZkWZmi5mBRICQp98RaOmfAQcSElmA6wopFkvsLEoG7S3BbIbEQA7
+
+------------VLdFXGOsebQq8QlVQERKd8
+Content-Disposition: inline; filename=searchbox-logo-126x32.gif
+Content-Type: image/gif; name=searchbox-logo-126x32.gif
+Content-Location: http://rcm-images.amazon.com/images/G/01/associates/build-links/searchbox-logo-126x32.gif
+Content-Transfer-Encoding: Base64
+
+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
+AAA7
+
+------------VLdFXGOsebQq8QlVQERKd8--
